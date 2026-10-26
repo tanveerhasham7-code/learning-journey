@@ -49,11 +49,11 @@ Exact scores depend on the indicators detected.
 ```text
 URL: http://192.0.2.10/secure-login
 Risk level: HIGH
-Risk score: 65/100
+Risk score: 50/100
 Findings:
-  - URL uses HTTP instead of HTTPS.
-  - Hostname is an IP address rather than a typical domain name.
-  - URL contains a potentially suspicious keyword: login.
+  - URL uses HTTP instead of encrypted HTTPS.
+  - Hostname is an IP address instead of a typical registered domain.
+  - URL contains potentially sensitive keywords: login, secure.
 ```
 
 The IP address above is from a documentation range and is used only as an example.
