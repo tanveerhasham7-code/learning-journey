@@ -1,6 +1,6 @@
 import unittest
 
-from url_analyzer import analyze_url
+from url_analyzer import analyze_url, format_result
 
 
 class AnalyzeUrlTests(unittest.TestCase):
@@ -40,12 +40,9 @@ class AnalyzeUrlTests(unittest.TestCase):
         result = analyze_url("https://example.com:bad")
         self.assertEqual(result.level, "INVALID")
 
-    def test_does_not_need_network_access(self):
-        # Analysis is local parsing only; this test uses a documentation domain.
+    def test_output_explains_it_does_not_visit_urls(self):
         result = analyze_url("https://example.com")
-        self.assertIn("does not visit the URL", "\n".join(
-            finding.message for finding in result.findings
-        ) + " does not visit the URL")
+        self.assertIn("does not visit the URL", format_result(result))
 
 
 if __name__ == "__main__":
