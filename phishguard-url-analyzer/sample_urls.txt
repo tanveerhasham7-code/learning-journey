@@ -1,0 +1,8 @@
+# Sample-only inputs. The program does not visit these URLs.
+# Reserved documentation domains and IP ranges are used for examples.
+https://example.com
+http://example.com/login
+http://192.0.2.10/secure-login
+example.com/account/verify
+https://bit.ly/example
+https://example.com/a/very/long/path/that/is/only/an/educational/sample/for/testing/url-length-indicators
