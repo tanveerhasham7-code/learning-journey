@@ -57,6 +57,8 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
+- [Wireshark & Network Traffic Analysis — Beginner to Advanced Theory, Practical Labs and SOC Investigation](wireshark-traffic-analysis/README.md)
+  - Covers packet anatomy, Ethernet/ARP, IPv4/IPv6, TCP/UDP, DNS, DHCP, HTTP, TLS, capture workflow, capture/display filters, statistics, troubleshooting, threat hunting, SOC evidence handling, TShark, 20 practical labs and an incident-investigation capstone.
 - [Computer Networks — Advanced Theory, Security Engineering & Practical Labs](computer-networks-advanced/README.md)
   - Covers enterprise network architecture, switching, VLANs, trunks, STP, routing/OSPF, IPv6, ACLs/firewalls, DNS/DHCP/NTP, wireless security, Wireshark, authorized Nmap discovery, VPN/IPsec/TLS, monitoring, segmentation, troubleshooting, 16 practical labs and a secure-enterprise capstone.
 - [Python for Cybersecurity — Programming, Defensive Automation and Practical Labs](python-cybersecurity/README.md)
