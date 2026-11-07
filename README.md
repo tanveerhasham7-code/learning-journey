@@ -57,6 +57,8 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
+- [Windows Administration & Security — Theory, Practical Labs and Defensive Hardening](windows-security/README.md)
+  - Covers Windows fundamentals, local accounts and groups, NTFS permissions, PowerShell, processes/services, networking, Event Viewer, Windows Firewall, Microsoft Defender, Registry/UAC, Group Policy, Active Directory, hardening, incident triage and 14 practical labs.
 - [Linux Administration & Kali Linux — Theory, Practical Labs and Security Hardening](linux-kali/README.md)
   - Includes Linux fundamentals, terminal commands, filesystem, users/groups/permissions, processes, services, APT, Linux networking, Bash scripting, logs, hardening, Kali setup, security-tool overview, 14 practical labs, troubleshooting and a final secure-server project.
 
