@@ -55,4 +55,13 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 - GitHub: [@tanveerhasham7-code](https://github.com/tanveerhasham7-code)
 
+
+## 🧭 Detailed Learning Notebooks
+
+- [Networking for Cybersecurity — Concepts, Lab Setup and Practical Exercises](networking/README.md)
+  - Includes OSI/TCP-IP, IPv4/subnetting, VLANs, routing, DHCP, DNS, NAT, protocols/ports, network security, Packet Tracer/VirtualBox lab setup, Wireshark, Nmap (authorized lab use), troubleshooting and a final secure-office mini-project.
+- [Learning Log Template](learning-log/TEMPLATE.md) — document each topic and practical lab with evidence and lessons learned.
+
+**Portfolio rule:** A topic or lab is marked complete only after it has been studied/practiced and evidence has been saved. Never publish credentials, tokens, private keys or sensitive packet captures.
+
 > Learn every day. Practice consistently. Build securely.
