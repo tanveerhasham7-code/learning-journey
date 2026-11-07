@@ -57,6 +57,8 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
+- [Computer Networks — Advanced Theory, Security Engineering & Practical Labs](computer-networks-advanced/README.md)
+  - Covers enterprise network architecture, switching, VLANs, trunks, STP, routing/OSPF, IPv6, ACLs/firewalls, DNS/DHCP/NTP, wireless security, Wireshark, authorized Nmap discovery, VPN/IPsec/TLS, monitoring, segmentation, troubleshooting, 16 practical labs and a secure-enterprise capstone.
 - [Python for Cybersecurity — Programming, Defensive Automation and Practical Labs](python-cybersecurity/README.md)
   - Covers Python fundamentals, data structures, functions, files, exceptions, packages, CLI scripting, log parsing, CSV/JSON, OS automation, networking, HTTP/APIs, hashing, HMAC, defensive automation, testing, 16 labs and a capstone project.
 - [Windows Administration & Security — Theory, Practical Labs and Defensive Hardening](windows-security/README.md)
