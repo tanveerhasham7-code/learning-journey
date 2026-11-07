@@ -57,6 +57,8 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
+- [Linux Administration & Kali Linux — Theory, Practical Labs and Security Hardening](linux-kali/README.md)
+  - Includes Linux fundamentals, terminal commands, filesystem, users/groups/permissions, processes, services, APT, Linux networking, Bash scripting, logs, hardening, Kali setup, security-tool overview, 14 practical labs, troubleshooting and a final secure-server project.
 
 - [Networking for Cybersecurity — Concepts, Lab Setup and Practical Exercises](networking/README.md)
   - Includes OSI/TCP-IP, IPv4/subnetting, VLANs, routing, DHCP, DNS, NAT, protocols/ports, network security, Packet Tracer/VirtualBox lab setup, Wireshark, Nmap (authorized lab use), troubleshooting and a final secure-office mini-project.
