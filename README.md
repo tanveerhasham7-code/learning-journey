@@ -57,6 +57,8 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
+- [Python for Cybersecurity — Programming, Defensive Automation and Practical Labs](python-cybersecurity/README.md)
+  - Covers Python fundamentals, data structures, functions, files, exceptions, packages, CLI scripting, log parsing, CSV/JSON, OS automation, networking, HTTP/APIs, hashing, HMAC, defensive automation, testing, 16 labs and a capstone project.
 - [Windows Administration & Security — Theory, Practical Labs and Defensive Hardening](windows-security/README.md)
   - Covers Windows fundamentals, local accounts and groups, NTFS permissions, PowerShell, processes/services, networking, Event Viewer, Windows Firewall, Microsoft Defender, Registry/UAC, Group Policy, Active Directory, hardening, incident triage and 14 practical labs.
 - [Linux Administration & Kali Linux — Theory, Practical Labs and Security Hardening](linux-kali/README.md)
