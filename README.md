@@ -75,3 +75,7 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 **Portfolio rule:** A topic or lab is marked complete only after it has been studied/practiced and evidence has been saved. Never publish credentials, tokens, private keys or sensitive packet captures.
 
 > Learn every day. Practice consistently. Build securely.
+
+
+- [SOC Analyst & SIEM — Beginner to Professional Theory, Practical Labs, Detection Engineering and Incident Response](soc-analyst-siem/README.md)
+  - Covers SOC roles and workflows, security principles, attack lifecycle, MITRE ATT&CK, Windows/Linux/identity/network/email/cloud telemetry, SIEM architecture and data pipelines, parsing and normalization, KQL/SPL-style querying, threat hunting, detection engineering, alert triage, incident response, evidence handling, SOAR, SOC metrics, 16 practical labs, a mini-SOC capstone, career checklist, and professional report templates.
