@@ -1,0 +1,24 @@
+# Essential Cybersecurity Glossary
+
+- Asset: something valuable that needs protection.
+- Attack surface: all points where a system may be exposed.
+- Attack vector: route or method used to reach a target.
+- Authentication: verifying an identity claim.
+- Authorization: deciding what an authenticated identity may do.
+- Availability: ensuring authorized access when needed.
+- CIA triad: confidentiality, integrity, availability.
+- Control: safeguard that reduces risk.
+- CVE: identifier for a publicly disclosed vulnerability.
+- CVSS: framework for communicating vulnerability severity.
+- Encryption: reversible transformation of data using a key.
+- Exploit: method that takes advantage of a vulnerability.
+- Hash: fixed-length digest generated from data.
+- Integrity: protection of accuracy and completeness.
+- Least privilege: granting only necessary access.
+- MFA: authentication using multiple different factor types.
+- Mitigation: action that reduces risk.
+- Risk: possibility of harm considering likelihood and impact.
+- SIEM: platform for collecting, analyzing, and correlating security events.
+- Threat: potential cause of harm.
+- Telemetry: collected observations about system behavior.
+- Vulnerability: a weakness that could be exploited.
