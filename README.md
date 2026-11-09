@@ -57,6 +57,8 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
+- [SOC Analyst & SIEM — Beginner to Professional Theory, Practical Labs, Detection Engineering and Incident Response](soc-analyst-siem/README.md)
+  - Covers SOC roles and workflows, security principles, attack lifecycle, MITRE ATT&CK, Windows/Linux/identity/network/email/cloud telemetry, SIEM architecture, log collection and normalization, KQL/SPL querying, threat hunting, detection engineering, alert triage, incident response, SOAR, 16 practical labs, a mini-SOC capstone, and professional report templates.
 - [Wireshark & Network Traffic Analysis — Beginner to Advanced Theory, Practical Labs and SOC Investigation](wireshark-traffic-analysis/README.md)
   - Covers packet anatomy, Ethernet/ARP, IPv4/IPv6, TCP/UDP, DNS, DHCP, HTTP, TLS, capture workflow, capture/display filters, statistics, troubleshooting, threat hunting, SOC evidence handling, TShark, 20 practical labs and an incident-investigation capstone.
 - [Computer Networks — Advanced Theory, Security Engineering & Practical Labs](computer-networks-advanced/README.md)
