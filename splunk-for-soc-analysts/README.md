@@ -1,4 +1,4 @@
-# Splunk for SOC Analysts — Beginner to Professional
+# Splunk for SOC Analysts — Beginner to Advanced Learning Path
 
 This module progresses from Splunk architecture to practical SOC workflows, SPL searching, data onboarding, detection engineering, threat hunting, alert triage, and incident reporting.
 
@@ -8,11 +8,11 @@ This module progresses from Splunk architecture to practical SOC workflows, SPL 
 2. [Splunk Installation And Lab Design](./02-splunk-installation-and-lab-design.md)
 3. [Splunk Data Onboarding And Forwarders](./03-splunk-data-onboarding-and-forwarders.md)
 4. [Splunk Indexes Events And Field Extraction](./04-splunk-indexes-events-and-field-extraction.md)
-5. [Spl Fundamentals Search Time And Syntax](./05-spl-fundamentals-search-time-and-syntax.md)
-6. [Spl Commands Stats Table Dedup Sort](./06-spl-commands-stats-table-dedup-sort.md)
-7. [Spl Data Models Cim And Add Ons](./07-spl-data-models-cim-and-add-ons.md)
-8. [Spl Authentication Monitoring And Detections](./08-spl-authentication-monitoring-and-detections.md)
-9. [Spl Process Network And Endpoint Monitoring](./09-spl-process-network-and-endpoint-monitoring.md)
+5. [Splunk SPL Fundamentals: Search Time and Syntax](./05-spl-fundamentals-search-time-and-syntax.md)
+6. [Splunk SPL Commands: stats, table, dedup and sort](./06-spl-commands-stats-table-dedup-sort.md)
+7. [Splunk Data Models, CIM and Add-ons](./07-spl-data-models-cim-and-add-ons.md)
+8. [Splunk Authentication Monitoring and Detections](./08-spl-authentication-monitoring-and-detections.md)
+9. [Splunk Process, Network and Endpoint Monitoring](./09-spl-process-network-and-endpoint-monitoring.md)
 10. [Splunk Alerts Reports And Dashboards](./10-splunk-alerts-reports-and-dashboards.md)
 11. [Splunk Threat Hunting And Investigation](./11-splunk-threat-hunting-and-investigation.md)
 12. [Splunk Es Correlation Searches And Risk Based Alerting](./12-splunk-es-correlation-searches-and-risk-based-alerting.md)
