@@ -57,6 +57,9 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
+- [Splunk for SOC Analysts — Beginner to Professional Theory, SPL, Data Onboarding, Detection Engineering, Threat Hunting and Practical Labs](splunk-for-soc-analysts/README.md)
+  - Covers Splunk architecture, lab design, forwarders, data onboarding, indexes and fields, SPL, CIM, authentication and endpoint monitoring, alerts, dashboards, threat hunting, Splunk ES concepts, SOC triage, hardening, 15 lessons, and a companion practical SOC lab. Practical completion requires your own evidence.
+
 - [Microsoft Sentinel for SOC Analysts — Azure SIEM, Log Analytics, Data Connectors, KQL, Analytics Rules, Incidents, Workbooks and SOAR](microsoft-sentinel/README.md)
   - Covers Azure foundations, workspace setup, data ingestion, table schemas, KQL hunting, detection engineering, alert and incident triage, entity mapping, UEBA, workbooks, Logic Apps automation, governance, cost and 16 practical exercises. Practical completion requires your own evidence.
 
