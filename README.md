@@ -57,6 +57,9 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
+- [Windows Advanced Security Monitoring — Beginner to Advanced Theory, Sysmon, PowerShell Logging, Windows Event Analysis, Detection Engineering and Practical Labs](windows-advanced-security-monitoring/README.md)
+  - Covers monitoring architecture, Event Log fundamentals, audit policy, Sysmon, PowerShell logging, process/registry/file/network telemetry, Defender and Firewall, persistence indicators, WEF/SIEM integration, detection engineering, SOC investigations and 14 practical exercises. Practical completion requires your own evidence.
+
 - [Active Directory Security for SOC Analysts — Beginner to Intermediate Theory, Authentication, Windows Security Events, Detection Engineering and SOC Investigation](active-directory-security/README.md)
   - Covers AD DS architecture, domains/forests/OUs, domain controllers, users and groups, Group Policy, LDAP, Kerberos, NTLM, key Windows security event IDs, privileged identity monitoring, common AD threat patterns, detection hypotheses, SOC investigation workflow and a practical lab plan. Practical completion requires your own evidence.
 
