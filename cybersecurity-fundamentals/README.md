@@ -1,6 +1,6 @@
 # Cybersecurity Fundamentals — Beginner to Advanced
 
-This is the fourth stage of my learning journey, after Networking, Linux, and Windows, and before Python for Cybersecurity. It connects operating-system and networking knowledge to security concepts used by analysts and security engineers.
+This is a core foundation module in my learning journey. It builds on networking and operating-system knowledge and prepares me for Python, security monitoring, SOC analysis, and defensive security work.
 
 ## How to study
 1. Read modules in order and write notes in your own words.
