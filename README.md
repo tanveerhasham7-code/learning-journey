@@ -57,6 +57,9 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
+- [SOC Level 1 Operations — Email/Phishing, Ticketing, Vulnerability Management, Identity Threat Monitoring and Shift Handover](soc-l1-operations/README.md)
+  - Dedicated Tier 1 workflows for email investigations, case documentation, severity/priority, escalation, CVE/CVSS triage, identity threat signals, SOC metrics and shift handovers.
+
 - [Splunk for SOC Analysts — Beginner to Advanced Theory, SPL, Data Onboarding, Detection Engineering, Threat Hunting and Practical Labs](splunk-for-soc-analysts/README.md)
   - Covers Splunk architecture, lab design, forwarders, data onboarding, indexes and fields, SPL, CIM, authentication and endpoint monitoring, alerts, dashboards, threat hunting, Splunk ES concepts, SOC triage, hardening, 15 lessons, and a companion practical SOC lab. Practical completion requires your own evidence.
 
