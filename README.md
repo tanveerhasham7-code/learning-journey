@@ -57,8 +57,8 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
-- [Windows Advanced Security Monitoring — Beginner to Advanced Theory, Sysmon, PowerShell Logging, Windows Event Analysis, Detection Engineering and Practical Labs](windows-advanced-security-monitoring/README.md)
-  - Covers monitoring architecture, Event Log fundamentals, audit policy, Sysmon, PowerShell logging, process/registry/file/network telemetry, Defender and Firewall, persistence indicators, WEF/SIEM integration, detection engineering, SOC investigations and 14 practical exercises. Practical completion requires your own evidence.
+- [Microsoft Sentinel for SOC Analysts — Azure SIEM, Log Analytics, Data Connectors, KQL, Analytics Rules, Incidents, Workbooks and SOAR](microsoft-sentinel/README.md)
+  - Covers Azure foundations, workspace setup, data ingestion, table schemas, KQL hunting, detection engineering, alert and incident triage, entity mapping, UEBA, workbooks, Logic Apps automation, governance, cost and 16 practical exercises. Practical completion requires your own evidence.
 
 - [Windows Advanced Security Monitoring — Beginner to Advanced Theory, Sysmon, PowerShell Logging, Windows Event Analysis, Detection Engineering and Practical Labs](windows-advanced-security-monitoring/README.md)
   - Covers monitoring architecture, Event Log fundamentals, audit policy, Sysmon, PowerShell logging, process/registry/file/network telemetry, Defender and Firewall, persistence indicators, WEF/SIEM integration, detection engineering, SOC investigations and 14 practical exercises. Practical completion requires your own evidence.
