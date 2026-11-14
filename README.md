@@ -57,7 +57,7 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
-- [Splunk for SOC Analysts — Beginner to Professional Theory, SPL, Data Onboarding, Detection Engineering, Threat Hunting and Practical Labs](splunk-for-soc-analysts/README.md)
+- [Splunk for SOC Analysts — Beginner to Advanced Theory, SPL, Data Onboarding, Detection Engineering, Threat Hunting and Practical Labs](splunk-for-soc-analysts/README.md)
   - Covers Splunk architecture, lab design, forwarders, data onboarding, indexes and fields, SPL, CIM, authentication and endpoint monitoring, alerts, dashboards, threat hunting, Splunk ES concepts, SOC triage, hardening, 15 lessons, and a companion practical SOC lab. Practical completion requires your own evidence.
 
 - [Microsoft Sentinel for SOC Analysts — Azure SIEM, Log Analytics, Data Connectors, KQL, Analytics Rules, Incidents, Workbooks and SOAR](microsoft-sentinel/README.md)
@@ -88,6 +88,9 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 - [Networking for Cybersecurity — Concepts, Lab Setup and Practical Exercises](networking/README.md)
   - Includes OSI/TCP-IP, IPv4/subnetting, VLANs, routing, DHCP, DNS, NAT, protocols/ports, network security, Packet Tracer/VirtualBox lab setup, Wireshark, Nmap (authorized lab use), troubleshooting and a final secure-office mini-project.
 
+
+### Mini Tools
+- [PhishGuard — Phishing URL Analyzer](phishguard-url-analyzer/README.md) — a local heuristic Python tool with sample URLs and unit tests; it does not visit URLs or prove that a URL is safe or malicious.
 
 - [Learning Log Template](learning-log/TEMPLATE.md) — document each topic and practical lab with evidence and lessons learned.
 
