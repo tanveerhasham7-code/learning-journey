@@ -57,6 +57,9 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 
 
 ## 🧭 Detailed Learning Notebooks
+- [Active Directory Security for SOC Analysts — Beginner to Intermediate Theory, Authentication, Windows Security Events, Detection Engineering and SOC Investigation](active-directory-security/README.md)
+  - Covers AD DS architecture, domains/forests/OUs, domain controllers, users and groups, Group Policy, LDAP, Kerberos, NTLM, key Windows security event IDs, privileged identity monitoring, common AD threat patterns, detection hypotheses, SOC investigation workflow and a practical lab plan. Practical completion requires your own evidence.
+
 - [SOC Analyst & SIEM — Beginner to Professional Theory, Practical Labs, Detection Engineering and Incident Response](soc-analyst-siem/README.md)
   - Covers SOC roles and workflows, security principles, attack lifecycle, MITRE ATT&CK, Windows/Linux/identity/network/email/cloud telemetry, SIEM architecture, log collection and normalization, KQL/SPL querying, threat hunting, detection engineering, alert triage, incident response, SOAR, 16 practical labs, a mini-SOC capstone, and professional report templates.
 - [Wireshark & Network Traffic Analysis — Beginner to Advanced Theory, Practical Labs and SOC Investigation](wireshark-traffic-analysis/README.md)
@@ -76,9 +79,6 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
 - [Networking for Cybersecurity — Concepts, Lab Setup and Practical Exercises](networking/README.md)
   - Includes OSI/TCP-IP, IPv4/subnetting, VLANs, routing, DHCP, DNS, NAT, protocols/ports, network security, Packet Tracer/VirtualBox lab setup, Wireshark, Nmap (authorized lab use), troubleshooting and a final secure-office mini-project.
 
-
-- [Active Directory Security for SOC Analysts — Beginner to Intermediate Theory, Authentication, Windows Security Events, Detection Engineering and SOC Investigation](active-directory-security/README.md)
-  - Covers AD DS architecture, domains/forests/OUs, domain controllers, users and groups, Group Policy, LDAP, Kerberos, NTLM, key Windows security event IDs, privileged identity monitoring, common AD threat patterns, detection hypotheses, SOC investigation workflow and a practical lab plan. Practical completion requires your own evidence.
 
 - [Learning Log Template](learning-log/TEMPLATE.md) — document each topic and practical lab with evidence and lessons learned.
 
