@@ -9,6 +9,7 @@ This module fills operational knowledge areas that a Junior SOC Analyst (Tier 1)
 3. [Vulnerability management for SOC analysts](03-vulnerability-management-for-soc.md)
 4. [Identity threat monitoring and account compromise](04-identity-threat-monitoring.md)
 5. [SOC operations, metrics and shift handover](05-soc-operations-metrics-and-handover.md)
+6. [EDR and malware alert triage](06-edr-and-malware-alert-triage.md)
 
 ## How to study
 
