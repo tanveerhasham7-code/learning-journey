@@ -77,6 +77,9 @@ To become a skilled cybersecurity professional by learning the fundamentals deep
   - Includes OSI/TCP-IP, IPv4/subnetting, VLANs, routing, DHCP, DNS, NAT, protocols/ports, network security, Packet Tracer/VirtualBox lab setup, Wireshark, Nmap (authorized lab use), troubleshooting and a final secure-office mini-project.
 
 
+- [Active Directory Security for SOC Analysts — Beginner to Intermediate Theory, Authentication, Windows Security Events, Detection Engineering and SOC Investigation](active-directory-security/README.md)
+  - Covers AD DS architecture, domains/forests/OUs, domain controllers, users and groups, Group Policy, LDAP, Kerberos, NTLM, key Windows security event IDs, privileged identity monitoring, common AD threat patterns, detection hypotheses, SOC investigation workflow and a practical lab plan. Practical completion requires your own evidence.
+
 - [Learning Log Template](learning-log/TEMPLATE.md) — document each topic and practical lab with evidence and lessons learned.
 
 **Portfolio rule:** A topic or lab is marked complete only after it has been studied/practiced and evidence has been saved. Never publish credentials, tokens, private keys or sensitive packet captures.
