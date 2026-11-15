@@ -25,19 +25,23 @@ The Packet Tracer screenshot shows both access links up (green link indicators).
 
 ### Evidence screenshots
 
-**1. Switch topology and CLI check**
+**1. Network topology and successful PC2-to-PC3 ping**
 
-![Packet Tracer topology and switch MAC address table](screenshots/lab-01/Screenshot%202026-11-15%20132321.png)
+![Two-PC switched LAN topology and successful ping from PC2 to PC3 (4 replies, 0% loss)](screenshots/lab-01/Screenshot%202026-11-15%20132321.png)
 
-The switch command was entered, but the displayed MAC-address table has no learned rows in this capture. This verification remains pending.
+This screenshot shows PC2 and PC3 connected to the Cisco 2960 switch, with both links up. The PC2 command prompt shows four successful replies from 192.168.10.20 (4/4 received, 0% loss).
 
-**2. ARP cache output**
+**2. PC3 ARP cache output**
 
-![PC ARP cache output](screenshots/lab-01/Screenshot%202026-11-15%20133106.png)
+![PC3 ARP cache showing the dynamic entry for 192.168.10.10](screenshots/lab-01/Screenshot%202026-11-15%20133106.png)
 
-**3. Successful ping test**
+This screenshot shows the output of `arp -a` on PC3. It contains a dynamic entry for 192.168.10.10 with physical address 0010.1114.232a.
 
-![Successful ping from PC2 to PC3](screenshots/lab-01/Screenshot%202026-11-15%20133350.png)
+**3. Switch MAC address table — verification pending**
+
+![Switch0 CLI showing show mac address-table with no learned MAC rows in this capture](screenshots/lab-01/Screenshot%202026-11-15%20133350.png)
+
+This screenshot shows the Cisco 2960 switch CLI after running `show mac address-table`. The table headings are visible, but no learned MAC-address rows appear. Therefore, switch MAC-table learning is not marked as verified yet.
 
 
 
