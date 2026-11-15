@@ -12,6 +12,8 @@ Steps: connect both PCs, configure IPs, ping each other, inspect ARP table.
 Expected: ping succeeds; switch learns source MAC addresses.
 
 ## Lab 2 — Connect two networks through a router
+
+**Hands-on report:** [Lab 02 — Connect Two LANs Through a Router](labs/lab-02-two-lans-router.md) — router interfaces verified up/up; bidirectional ping evidence recorded.
 - LAN-A: 192.168.10.0/24, gateway 192.168.10.1
 - LAN-B: 192.168.20.0/24, gateway 192.168.20.1
 Configure router interfaces, bring them up, configure host gateways and test cross-network ping.
