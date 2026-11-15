@@ -18,7 +18,9 @@ PC0 ---- Switch0 ---- G0/0 [ Router0 ] G0/1 ---- Switch1 ---- PC1
         LAN-A: 192.168.10.0/24       LAN-B: 192.168.20.0/24
 ```
 
-All four Ethernet links were shown green in the Packet Tracer topology screenshot.
+All four Ethernet links were shown green in the completed Packet Tracer topology.
+
+![Lab 2 topology and initial router setup](screenshots/lab-02/Screenshot%202026-11-15%20151610.png)
 
 ## 3. IP addressing plan
 
@@ -69,9 +71,15 @@ Verification command:
 show ip interface brief
 ```
 
-The supplied router CLI screenshot shows:
+The router configuration is shown in the following evidence screenshot:
+
+![Router interface configuration for both LANs](screenshots/lab-02/Screenshot%202026-11-15%20151804.png)
+
+The supplied router CLI verification screenshot shows:
 - GigabitEthernet0/0 — 192.168.10.1 — up/up
 - GigabitEthernet0/1 — 192.168.20.1 — up/up
+
+![Router show ip interface brief output](screenshots/lab-02/Screenshot%202026-11-15%20151936.png)
 
 ## 6. Connectivity testing and observed results
 
@@ -85,6 +93,8 @@ ping 192.168.20.10
 
 The first captured run showed one initial timeout followed by three successful replies: 3 received, 1 lost (25% loss). This run demonstrates successful replies, but it was not a zero-loss result.
 
+![PC0 to PC1 ping test with one initial timeout and three replies](screenshots/lab-02/Screenshot%202026-11-15%20152257.png)
+
 ### Test B — PC1 to PC0
 
 Command:
@@ -97,6 +107,8 @@ The supplied screenshot shows:
 - Packets sent: 4
 - Packets received: 4
 - Packets lost: 0 (0% loss)
+
+![PC1 to PC0 ping test with four successful replies](screenshots/lab-02/Screenshot%202026-11-15%20152411.png)
 
 **Result:** Communication from PC1 to PC0 was verified with 0% packet loss. The opposite direction also returned successful replies after one initial timeout.
 
@@ -124,9 +136,11 @@ Network segmentation separates devices into distinct IP networks. A SOC analyst 
 
 ## 10. Evidence screenshots
 
-The three Packet Tracer screenshots supplied for this lab show:
-1. Router interface configuration and `show ip interface brief`.
-2. PC0 → PC1 ping output.
-3. PC1 → PC0 ping output.
+The five Packet Tracer screenshots embedded above provide evidence of:
+1. The two-LAN topology and initial router setup.
+2. Configuration of both router interfaces.
+3. Router interface status using `show ip interface brief`.
+4. PC0 → PC1 ping output (one initial timeout, then three replies).
+5. PC1 → PC0 ping output (4/4 successful replies).
 
 *The report records the results visible in the supplied screenshots and does not describe the first PC0 → PC1 ping as 0% loss.*
