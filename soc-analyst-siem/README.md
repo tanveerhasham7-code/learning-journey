@@ -1,4 +1,4 @@
-# SOC Analyst and SIEM: Beginner to Professional
+# SOC Analyst and SIEM: Beginner to Advanced
 
 A defensive cybersecurity learning path combining theory, operational workflows, SIEM engineering, detection, investigation, incident response, practical labs, and a capstone.
 
