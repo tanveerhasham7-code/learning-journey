@@ -27,17 +27,17 @@ The Packet Tracer screenshot shows both access links up (green link indicators).
 
 **1. Switch topology and CLI check**
 
-![Packet Tracer topology and switch MAC address table](Screenshot%202026-11-15%20132321.png)
+![Packet Tracer topology and switch MAC address table](screenshots/lab-01/Screenshot%202026-11-15%20132321.png)
 
 The switch command was entered, but the displayed MAC-address table has no learned rows in this capture. This verification remains pending.
 
 **2. ARP cache output**
 
-![PC ARP cache output](Screenshot%202026-11-15%20133106.png)
+![PC ARP cache output](screenshots/lab-01/Screenshot%202026-11-15%20133106.png)
 
 **3. Successful ping test**
 
-![Successful ping from PC2 to PC3](Screenshot%202026-11-15%20133350.png)
+![Successful ping from PC2 to PC3](screenshots/lab-01/Screenshot%202026-11-15%20133350.png)
 
 
 
