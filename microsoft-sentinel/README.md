@@ -4,7 +4,7 @@
 
 Microsoft Sentinel is Microsoft's cloud-native SIEM and SOAR platform. This module explains its architecture, Azure foundations, Log Analytics, data connectors, KQL, detections, incidents, workbooks, automation, investigation and cost/security governance.
 
-Companion project: [Microsoft Sentinel SOC Lab](https://github.com/tanveerhasham7-code/projects-/tree/main/microsoft-sentinel-soc-lab).
+Companion project: [Microsoft Sentinel SOC Lab](https://github.com/tanveerhasham7-code/cybersecurity-projects/tree/main/microsoft-sentinel-soc-lab).
 
 ## Step-by-step topics
 
