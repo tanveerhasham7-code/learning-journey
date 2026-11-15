@@ -19,6 +19,10 @@ A structured, beginner-to-intermediate networking notebook for a cybersecurity s
 14. [Troubleshooting methodology](14-troubleshooting.md)
 15. [Cybersecurity networking checklist](15-cybersecurity-checklist.md)
 
+## Completed lab reports and screenshots
+
+Open the [Networking Labs folder README](labs/README.md) to find each practical lab report and its matching screenshot folder. Current reports: [Lab 1 — Basic LAN](labs/lab-01-basic-lan.md) and [Lab 2 — Two LANs Through a Router](labs/lab-02-two-lans-router.md).
+
 ## Recommended lab tools
 - Cisco Packet Tracer: beginner-friendly switching, routing, VLAN, DHCP and ACL simulations.
 - GNS3 or EVE-NG: more advanced network-device labs; images may require separate licensing.
