@@ -3,6 +3,8 @@
 Complete each lab in order. Save topology files and screenshots in a separate `labs/` folder when possible.
 
 ## Lab 1 — Build a small LAN
+
+**Hands-on report:** [Lab 01 — Build and Verify a Basic Switched LAN](labs/lab-01-basic-lan.md) — ping and ARP evidence recorded; switch MAC-table verification is pending.
 **Topology:** 2 PCs → 1 switch.
 - PC-A: 192.168.10.10/24
 - PC-B: 192.168.10.20/24
