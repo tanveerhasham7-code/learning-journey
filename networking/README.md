@@ -19,9 +19,16 @@ A structured, beginner-to-intermediate networking notebook for a cybersecurity s
 14. [Troubleshooting methodology](14-troubleshooting.md)
 15. [Cybersecurity networking checklist](15-cybersecurity-checklist.md)
 
-## Completed lab reports and screenshots
+## Practical labs completed / in progress
 
-Open the [Networking Labs folder README](labs/README.md) to find each practical lab report and its matching screenshot folder. Current reports: [Lab 1 — Basic LAN](labs/lab-01-basic-lan.md) and [Lab 2 — Two LANs Through a Router](labs/lab-02-two-lans-router.md).
+The following hands-on labs have their own detailed reports and screenshot evidence:
+
+| Lab | Title | Status | Report | Screenshots |
+|---|---|---|---|---|
+| Lab 1 | Build and verify a basic LAN (2 PCs, 1 switch) | Completed; switch MAC-table check needs re-verification | [Open Lab 1 report](labs/lab-01-basic-lan.md) | [View Lab 1 screenshots](labs/screenshots/lab-01/) |
+| Lab 2 | Connect two LANs through a Cisco 2911 router | Completed; bidirectional ping tested | [Open Lab 2 report](labs/lab-02-two-lans-router.md) | [View Lab 2 screenshots](labs/screenshots/lab-02/) |
+
+[Open the complete Networking Labs index](labs/README.md) for the folder structure and all available lab reports.
 
 ## Recommended lab tools
 - Cisco Packet Tracer: beginner-friendly switching, routing, VLAN, DHCP and ACL simulations.
