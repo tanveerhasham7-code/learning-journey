@@ -34,6 +34,6 @@ This module progresses from Splunk architecture to practical SOC workflows, SPL 
 Study each lesson in order. Reproduce queries only when the required data and fields exist. Record query purpose, time range, output, and limitations. Use an authorized lab or synthetic data. Save sanitized evidence in the companion project.
 
 ## Companion project
-[Splunk SOC Analyst Lab](https://github.com/tanveerhasham7-code/projects-/tree/main/splunk-soc-analyst-lab)
+[Splunk SOC Analyst Lab](https://github.com/tanveerhasham7-code/cybersecurity-projects/tree/main/splunk-soc-analyst-lab)
 
 **Portfolio rule:** This is learning material and a lab blueprint. Actual deployment, ingestion, query execution, alerts, dashboards, and investigations are not claimed complete until supported by your own evidence.
