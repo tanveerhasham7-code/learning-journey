@@ -18,9 +18,9 @@ PC0 ---- Switch0 ---- G0/0 [ Router0 ] G0/1 ---- Switch1 ---- PC1
         LAN-A: 192.168.10.0/24       LAN-B: 192.168.20.0/24
 ```
 
-All four Ethernet links were shown green in the completed Packet Tracer topology.
+The first topology screenshot below records the initial setup stage: the left router link is up, while the right router link is still red/down because GigabitEthernet0/1 has not yet been configured and enabled. After both router interfaces were configured with `no shutdown`, the later screenshots show all four Ethernet links green.
 
-![Lab 2 topology and initial router setup](screenshots/lab-02/Screenshot%202026-11-15%20151610.png)
+![Initial Lab 2 topology and first router-interface setup; the right router link is still down at this stage](screenshots/lab-02/Screenshot%202026-11-15%20151610.png)
 
 ## 3. IP addressing plan
 
