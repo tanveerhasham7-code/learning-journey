@@ -44,7 +44,9 @@ Connect two routers and two LANs. Configure routes in both directions. Inspect t
 Capture your own ping, DNS lookup and HTTP/HTTPS connection. Identify Ethernet, IP, TCP/UDP and application layers. Do not capture other people's traffic.
 
 ## Lab 9 — Nmap service inventory
-Against a lab VM you own, run a limited discovery/port scan (see [Nmap lab](13-nmap-lab.md)). Identify listening services and recommend which should be disabled or restricted.
+
+**Hands-on report:** [Lab 09 — Nmap Service Inventory](labs/lab-09-nmap-service-inventory.md) — used Kali Linux to discover and scan the user's isolated Metasploitable 2 VM; identified 23 open TCP ports, detected service versions, saved scan output in normal/XML/grepable formats, and documented defensive recommendations. Nine screenshots are embedded in the report. No remediation was applied.
+Use Nmap only against a VM you own or a target for which you have explicit authorization (see [Nmap lab guide](13-nmap-lab.md)). Identify listening services and recommend which should be disabled or restricted.
 
 ## Lab 10 — Network hardening review
 Create a simple diagram with user, server, guest and management zones. Propose firewall rules, management access restrictions, logging and backup measures. Explain how segmentation reduces lateral movement.
