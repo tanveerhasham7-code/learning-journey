@@ -34,6 +34,8 @@ Configure a DHCP pool for a lab subnet. Exclude gateway/reserved addresses. Set 
 Use a local lab DNS service or a controlled test resolver. Query a known test hostname with `nslookup` or `dig`. Capture the request and response. Explain A, AAAA, CNAME and MX records.
 
 ## Lab 7 — Static routing
+
+**Hands-on report:** [Lab 07 — Static Routing Between Two LANs](labs/lab-07-static-routing.md) — reciprocal static routes verified in both routing tables; cross-LAN ping replies and a completed traceroute recorded.
 Connect two routers and two LANs. Configure routes in both directions. Inspect the routing table and use traceroute to understand the path.
 
 ## Lab 8 — Wireshark basics
