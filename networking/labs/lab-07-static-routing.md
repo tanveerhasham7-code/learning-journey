@@ -65,22 +65,59 @@ The first ping's initial timeouts can occur while devices are resolving Layer 2 
 
 ## Screenshots
 
-All evidence is stored in [the Lab 7 screenshots folder](screenshots/lab-07/).
+The 13 screenshots below are embedded directly in this report, with each image matched to its description. Select an image to open its full-size version.
 
-1. [Router1 LAN and WAN interface configuration](screenshots/lab-07/Screenshot%202026-11-16%20192432.png)
-2. [PC0 IPv4 configuration](screenshots/lab-07/Screenshot%202026-11-16%20192527.png)
-3. [PC1 IPv4 configuration](screenshots/lab-07/Screenshot%202026-11-16%20192552.png)
-4. [Router0 LAN and WAN interface configuration](screenshots/lab-07/Screenshot%202026-11-16%20192901.png)
-5. [Router1 initial CLI/startup screen](screenshots/lab-07/Screenshot%202026-11-16%20193048.png)
-6. [Router0 interface status — up/up](screenshots/lab-07/Screenshot%202026-11-16%20193109.png)
-7. [Router1 static route configuration](screenshots/lab-07/Screenshot%202026-11-16%20193445.png)
-8. [Router0 static route configuration](screenshots/lab-07/Screenshot%202026-11-16%20193636.png)
-9. [Router1 routing table with static route](screenshots/lab-07/Screenshot%202026-11-16%20193653.png)
-10. [Router0 routing table with static route](screenshots/lab-07/Screenshot%202026-11-16%20193724.png)
-11. [PC0 to PC1 ping test — initial timeouts then replies](screenshots/lab-07/Screenshot%202026-11-16%20193849.png)
-12. [PC1 to PC0 ping test — 4/4 replies](screenshots/lab-07/Screenshot%202026-11-16%20194001.png)
-13. [PC0 traceroute to PC1 — trace complete](screenshots/lab-07/Screenshot%202026-11-16%20194146.png)
+1. **Router1 LAN and WAN interface configuration**
 
+   ![Router1 LAN and WAN interface configuration](screenshots/lab-07/Screenshot%202026-11-16%20192432.png)
+
+2. **PC0 IPv4 configuration**
+
+   ![PC0 IPv4 configuration](screenshots/lab-07/Screenshot%202026-11-16%20192527.png)
+
+3. **PC1 IPv4 configuration**
+
+   ![PC1 IPv4 configuration](screenshots/lab-07/Screenshot%202026-11-16%20192552.png)
+
+4. **Router0 LAN and WAN interface configuration**
+
+   ![Router0 LAN and WAN interface configuration](screenshots/lab-07/Screenshot%202026-11-16%20192901.png)
+
+5. **Router1 initial CLI/startup screen**
+
+   ![Router1 initial CLI/startup screen](screenshots/lab-07/Screenshot%202026-11-16%20193048.png)
+
+6. **Router0 interface status — up/up**
+
+   ![Router0 interface status — up/up](screenshots/lab-07/Screenshot%202026-11-16%20193109.png)
+
+7. **Router1 static route configuration**
+
+   ![Router1 static route configuration](screenshots/lab-07/Screenshot%202026-11-16%20193445.png)
+
+8. **Router0 static route configuration**
+
+   ![Router0 static route configuration](screenshots/lab-07/Screenshot%202026-11-16%20193636.png)
+
+9. **Router1 routing table with static route**
+
+   ![Router1 routing table with static route](screenshots/lab-07/Screenshot%202026-11-16%20193653.png)
+
+10. **Router0 routing table with static route**
+
+   ![Router0 routing table with static route](screenshots/lab-07/Screenshot%202026-11-16%20193724.png)
+
+11. **PC0 to PC1 ping test — initial timeouts then replies**
+
+   ![PC0 to PC1 ping test — initial timeouts then replies](screenshots/lab-07/Screenshot%202026-11-16%20193849.png)
+
+12. **PC1 to PC0 ping test — 4/4 replies**
+
+   ![PC1 to PC0 ping test — 4/4 replies](screenshots/lab-07/Screenshot%202026-11-16%20194001.png)
+
+13. **PC0 traceroute to PC1 — trace complete**
+
+   ![PC0 traceroute to PC1 — trace complete](screenshots/lab-07/Screenshot%202026-11-16%20194146.png)
 ## What I learned
 
 - How routers connect separate IP networks.
