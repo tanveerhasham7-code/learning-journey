@@ -33,13 +33,14 @@ The following hands-on labs have their own detailed reports and screenshot evide
 | Lab 6 | DNS server and hostname resolution | Completed; A record, nslookup, hostname ping, and Simulation events verified | [Open Lab 6 report](labs/lab-06-dns.md) | [View Lab 6 screenshots](labs/screenshots/lab-06/) |
 | Lab 7 | Static routing between two LANs using two Cisco 2911 routers | Completed; reciprocal static routes, routing tables, cross-LAN ping and traceroute evidence recorded | [Open Lab 7 report](labs/lab-07-static-routing.md) | [View Lab 7 screenshots](labs/screenshots/lab-07/) |
 | Lab 8 | Wireshark packet capture and analysis (ICMP, DNS, TCP) | Completed; ICMP ping, DNS queries/responses, IPv4 TTL, and TCP flags documented with 12 embedded screenshots | [Open Lab 8 report](labs/lab-08-wireshark-basics.md) | [View Lab 8 screenshots](labs/screenshots/lab-08/) |
+| Lab 9 | Nmap service inventory against Metasploitable 2 | Completed; host discovery, 23 open TCP ports, service/version detection, saved scan files and defensive review documented; remediation not applied | [Open Lab 9 report](labs/lab-09-nmap-service-inventory.md) | [View Lab 9 screenshots](labs/screenshots/lab-09/) |
 
 [Open the complete Networking Labs index](labs/README.md) for the folder structure and all available lab reports.
 
 ## Recommended lab tools
 - Cisco Packet Tracer: beginner-friendly switching, routing, VLAN, DHCP and ACL simulations.
 - GNS3 or EVE-NG: more advanced network-device labs; images may require separate licensing.
-- VirtualBox: isolated virtual machines for Linux/Windows host networking.
+- VMware Workstation or VirtualBox: isolated virtual machines for Linux/Windows host networking.
 - Wireshark: packet capture and protocol analysis.
 - Nmap: host and service discovery on systems you own or are explicitly authorized to test.
 
@@ -57,7 +58,7 @@ Record: objective, topology, device/VM names, IP plan, configuration, commands, 
 - [x] Configure static routing
 - [ ] Observe DHCP, DNS, ARP and TCP handshakes
 - [x] Analyze captures in Wireshark
-- [ ] Run a limited Nmap scan against lab targets
+- [x] Run a limited Nmap scan against an authorized lab target
 - [ ] Apply basic segmentation and access controls
 - [ ] Write a final network-security lab report
 
