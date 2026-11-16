@@ -39,6 +39,8 @@ Use a local lab DNS service or a controlled test resolver. Query a known test ho
 Connect two routers and two LANs. Configure routes in both directions. Inspect the routing table and use traceroute to understand the path.
 
 ## Lab 8 — Wireshark basics
+
+**Hands-on report:** [Lab 08 — Wireshark Packet Capture and Analysis](labs/lab-08-wireshark-basics.md) — captured own Wi-Fi traffic; inspected ICMP Echo Request/Reply, IPv4 TTL, DNS queries/responses (including a Refused response), and TCP SYN/SYN-ACK/ACK flags. Twelve screenshots are embedded in the report. The PCAPNG capture was saved locally and was not uploaded to the repository.
 Capture your own ping, DNS lookup and HTTP/HTTPS connection. Identify Ethernet, IP, TCP/UDP and application layers. Do not capture other people's traffic.
 
 ## Lab 9 — Nmap service inventory
