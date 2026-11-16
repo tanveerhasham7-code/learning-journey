@@ -29,6 +29,7 @@ The following hands-on labs have their own detailed reports and screenshot evide
 | Lab 2 | Connect two LANs through a Cisco 2911 router | Completed; bidirectional ping tested | [Open Lab 2 report](labs/lab-02-two-lans-router.md) | [View Lab 2 screenshots](labs/screenshots/lab-02/) |
 | Lab 3 | VLAN segmentation (Admin and Sales) | Completed; VLANs and access ports verified; inter-VLAN ping blocked as expected | [Open Lab 3 report](labs/lab-03-vlan-segmentation.md) | [View Lab 3 screenshots](labs/screenshots/lab-03/) |
 | Lab 4 | Trunk and Inter-VLAN Routing (Router-on-a-Stick) | In progress; inter-VLAN routing tested; ACL configuration pending | [Open Lab 4 report](labs/lab-04-trunk-inter-vlan-routing.md) | [View Lab 4 screenshots](labs/screenshots/lab-04/) |
+| Lab 5 | DHCP server and automatic IPv4 configuration | In progress; DHCP leases observed, but pool selection and default gateway need correction | [Open Lab 5 report](labs/lab-05-dhcp.md) | [View Lab 5 screenshots](labs/screenshots/lab-05/) |
 
 [Open the complete Networking Labs index](labs/README.md) for the folder structure and all available lab reports.
 
