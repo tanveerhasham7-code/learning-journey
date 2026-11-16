@@ -29,6 +29,8 @@ Configure an 802.1Q trunk between switch and router or Layer 3 switch. Create ga
 Configure a DHCP pool for a lab subnet. Exclude gateway/reserved addresses. Set clients to DHCP and inspect the assigned address, gateway and DNS. Capture the DORA sequence.
 
 ## Lab 6 — DNS
+
+**Hands-on report:** [Lab 06 — DNS Server and Hostname Resolution](labs/lab-06-dns.md) — DNS A record configured; `nslookup` and hostname ping succeeded; DNS events observed in Simulation mode.
 Use a local lab DNS service or a controlled test resolver. Query a known test hostname with `nslookup` or `dig`. Capture the request and response. Explain A, AAAA, CNAME and MX records.
 
 ## Lab 7 — Static routing
