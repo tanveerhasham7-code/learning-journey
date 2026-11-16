@@ -31,6 +31,7 @@ The following hands-on labs have their own detailed reports and screenshot evide
 | Lab 4 | Trunk and Inter-VLAN Routing (Router-on-a-Stick) | In progress; inter-VLAN routing tested; ACL configuration pending | [Open Lab 4 report](labs/lab-04-trunk-inter-vlan-routing.md) | [View Lab 4 screenshots](labs/screenshots/lab-04/) |
 | Lab 5 | DHCP server and automatic IPv4 configuration | In progress; DHCP leases observed, but pool selection and default gateway need correction | [Open Lab 5 report](labs/lab-05-dhcp.md) | [View Lab 5 screenshots](labs/screenshots/lab-05/) |
 | Lab 6 | DNS server and hostname resolution | Completed; A record, nslookup, hostname ping, and Simulation events verified | [Open Lab 6 report](labs/lab-06-dns.md) | [View Lab 6 screenshots](labs/screenshots/lab-06/) |
+| Lab 7 | Static routing between two LANs using two Cisco 2911 routers | Completed; reciprocal static routes, routing tables, cross-LAN ping and traceroute evidence recorded | [Open Lab 7 report](labs/lab-07-static-routing.md) | [View Lab 7 screenshots](labs/screenshots/lab-07/) |
 
 [Open the complete Networking Labs index](labs/README.md) for the folder structure and all available lab reports.
 
@@ -52,7 +53,7 @@ Record: objective, topology, device/VM names, IP plan, configuration, commands, 
 - [ ] Calculate IPv4 subnets confidently
 - [ ] Build a small switched LAN
 - [ ] Configure VLANs and inter-VLAN routing
-- [ ] Configure static routing
+- [x] Configure static routing
 - [ ] Observe DHCP, DNS, ARP and TCP handshakes
 - [ ] Analyze captures in Wireshark
 - [ ] Run a limited Nmap scan against lab targets
