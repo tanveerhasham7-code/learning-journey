@@ -25,3 +25,5 @@ Only use systems and accounts you own or are explicitly authorized to use.
 For each exercise, record date, general environment, objective, steps performed, actual observations, safe screenshot filename, what the result proves and does not prove, problems, and next action.
 
 Do not invent output or mark exercises complete just because instructions exist. Never upload credentials, tokens, personal data, or sensitive logs.
+
+- [Practical 05 — Account Review](lab/lab-05-account-review.md) — **In progress (one account reported in Other users; Administrator/Standard User role not yet verified).**
