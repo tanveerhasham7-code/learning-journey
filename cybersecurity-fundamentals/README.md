@@ -33,6 +33,7 @@ This is a core foundation module in my learning journey. It builds on networking
 - [Practical 04 — Security Control Mapping (Completed)](lab/lab-04-security-control-mapping.md)
 - [Practical 05 — Account Review (Completed)](lab/lab-05-account-review.md)
 - [Practical 06 — SHA-256 Integrity (Completed)](lab/lab-06-sha256-integrity.md)
+- [Practical 07 — Phishing Tabletop (Assistant-prepared reference; learner completion pending)](lab/lab-07-phishing-tabletop.md)
 - [Essential Cybersecurity Glossary](GLOSSARY.md)
 
 ## Practical work
@@ -44,7 +45,8 @@ This is a core foundation module in my learning journey. It builds on networking
 | Practical 03 | Risk Register — identify assets, threats, weaknesses, likelihood, impact, controls, and treatment | **In progress** (initial assessment of one Windows 11 Pro laptop; two more assets and final risk ratings remain) | [Open initial report](lab/lab-03-risk-register.md) |
 | Practical 04 | Security Control Mapping — map administrative, technical, and detective controls to a phishing risk | **Completed** (fictional tabletop exercise; no live system changes or screenshots) | [Open report](lab/lab-04-security-control-mapping.md) |
 | Practical 05 | Account Review — inspect local account roles and apply least privilege | **Completed** (current signed-in account reported as Administrator; separate account under Other users remains unclassified) | [Open report](lab/lab-05-account-review.md) |
-| Practical 06 | SHA-256 Integrity — hash a harmless file, modify its content, and compare digests | **Completed** (learner reported different hashes; exact values/screenshots not supplied) | [Open report](lab/lab-06-sha256-integrity.md) |
+| Practical 06 | SHA-256 Integrity — hash a harmless file, modify its content, and compare digests | **Completed** (learner reported different hashes; screenshot embedded; exact values not transcribed) | [Open report](lab/lab-06-sha256-integrity.md) |
+| Practical 07 | Phishing Tabletop — identify warning signs and safe reporting steps in a fictional email | **Reference prepared** (assistant-authored worked example; learner completion pending) | [Open report](lab/lab-07-phishing-tabletop.md) |
 
 All practical exercises and their evidence requirements are listed in [PRACTICALS.md](PRACTICALS.md). More practical reports will be added here as they are completed.
 
