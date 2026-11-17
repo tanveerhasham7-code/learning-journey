@@ -34,8 +34,9 @@ The following hands-on labs have their own detailed reports and screenshot evide
 | Lab 7 | Static routing between two LANs using two Cisco 2911 routers | Completed; reciprocal static routes, routing tables, cross-LAN ping and traceroute evidence recorded | [Open Lab 7 report](labs/lab-07-static-routing.md) | [View Lab 7 screenshots](labs/screenshots/lab-07/) |
 | Lab 8 | Wireshark packet capture and analysis (ICMP, DNS, TCP) | Completed; ICMP ping, DNS queries/responses, IPv4 TTL, and TCP flags documented with 12 embedded screenshots | [Open Lab 8 report](labs/lab-08-wireshark-basics.md) | [View Lab 8 screenshots](labs/screenshots/lab-08/) |
 | Lab 9 | Nmap service inventory against Metasploitable 2 | Completed; host discovery, 23 open TCP ports, service/version detection, saved scan files and defensive review documented; remediation not applied | [Open Lab 9 report](labs/lab-09-nmap-service-inventory.md) | [View Lab 9 screenshots](labs/screenshots/lab-09/) |
+| Lab 10 | Network hardening review (VLAN zones and Guest ACL) | In progress; Guest isolation tested and 15 screenshots embedded; VLAN 99 gateway/trunk verification pending | [Open Lab 10 report](labs/lab-10-network-hardening-review.md) | [View Lab 10 screenshots](labs/screenshots/lab-10/) |
 
-[Open the complete Networking Labs index](labs/README.md) for the folder structure and all available lab reports.
+[Open the complete Networking Labs index](labs/) for the folder structure and all available lab reports.
 
 ## Recommended lab tools
 - Cisco Packet Tracer: beginner-friendly switching, routing, VLAN, DHCP and ACL simulations.
@@ -59,7 +60,7 @@ Record: objective, topology, device/VM names, IP plan, configuration, commands, 
 - [ ] Observe DHCP, DNS, ARP and TCP handshakes
 - [x] Analyze captures in Wireshark
 - [x] Run a limited Nmap scan against an authorized lab target
-- [ ] Apply basic segmentation and access controls
+- [ ] Apply basic segmentation and access controls (Lab 10 Guest ACL tested; Management VLAN gateway verification pending)
 - [ ] Write a final network-security lab report
 
 This is a learning notebook, not a claim of professional certification or production-network experience.
