@@ -14,7 +14,7 @@ uptime
 Evidence: [completed Lab 1 report with three embedded screenshots](lab/lab-01-system-identification.md). **Status: Completed (17 November 2026).**
 
 ## Lab 2 — Files and directories
-Create a project folder, three files, copy and rename one, search for a phrase with grep, and inspect metadata with stat. Evidence: commands and final directory listing.
+Create a practice folder and three files; write/read content; copy, rename, move and delete files; create a subdirectory; use `less` and `find`; inspect the final tree and disk usage with `pwd`, `ls -R` and `du -sh`. Evidence: [completed Lab 2 report](lab/lab-02-files-and-directories.md). **Status: Completed (17 November 2026; learner-confirmed command execution, no screenshots).**
 
 ## Lab 3 — Users and groups
 Create two test users and a shared group. Create a shared directory, assign group ownership and configure permissions. Log in as each test user and verify access. Evidence: id, getent group, ls -ld and access results. Remove test accounts when finished if appropriate.
