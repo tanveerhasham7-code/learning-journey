@@ -35,3 +35,5 @@ Do not invent output or mark exercises complete just because instructions exist.
 - [Practical 09 — Log Reading](lab/lab-09-log-reading.md) — **Reference report prepared (fictional Windows Security events 4624 and 4625; inspection of a real local event remains pending).**
 
 - [Practical 10 — Incident Response Tabletop](lab/lab-10-incident-response-tabletop.md) — **Reference report prepared (fictional suspicious-account scenario; learner tabletop walkthrough remains pending).**
+
+- [Practical 11 — Backup Plan](lab/lab-11-backup-plan.md) — **Reference report prepared (backup strategy and restore-test procedure documented; actual backup and restore by learner remain pending).**
