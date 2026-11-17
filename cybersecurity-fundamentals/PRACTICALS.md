@@ -29,3 +29,5 @@ Do not invent output or mark exercises complete just because instructions exist.
 - [Practical 05 — Account Review](lab/lab-05-account-review.md) — **Completed (current signed-in account reported as Administrator; separate account under Other users remains unclassified).**
 - [Practical 06 — SHA-256 Integrity](lab/lab-06-sha256-integrity.md) — **Completed (learner reported different hashes after modifying a harmless test file; screenshot embedded; exact hash values not transcribed).**
 - [Practical 07 — Phishing Tabletop](lab/lab-07-phishing-tabletop.md) — **Reference report prepared (assistant-authored fictional worked example; learner walkthrough and independent completion remain pending).**
+
+- [Practical 08 — Patch Review](lab/lab-08-patch-review.md) — **Reference report prepared (uses learner-reported Windows Update status from Practical 03; fresh check and learner completion remain pending).**
