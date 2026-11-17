@@ -30,6 +30,14 @@ This is a core foundation module in my learning journey. It builds on networking
 - [Practical 01 — Asset Inventory (Completed)](lab/lab-01-asset-inventory.md)
 - [Essential Cybersecurity Glossary](GLOSSARY.md)
 
+## Practical work
+
+| Practical | Focus | Status | Documentation |
+|---|---|---|---|
+| Practical 01 | Asset Inventory — identify and record hardware, operating system, security software, applications, network adapters, virtual machines, and study-data assets | **Completed** (initial inventory; some hardware details remain unverified) | [Open report and 8 screenshots](lab/lab-01-asset-inventory.md) |
+
+All practical exercises and their evidence requirements are listed in [PRACTICALS.md](PRACTICALS.md). More practical reports will be added here as they are completed.
+
 ## Completion standard
 Explain core concepts in your own words, identify a basic risk, recommend proportionate controls, and describe a safe incident-response process. Practical completion requires your own recorded evidence.
 
