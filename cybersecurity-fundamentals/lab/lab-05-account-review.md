@@ -1,6 +1,6 @@
 # Practical 05 — Account Review
 
-**Status:** In progress — initial account listing recorded; account privilege level not yet verified  
+**Status:** Completed — account listing and current account role recorded  
 **Assessment type:** Local account review (user-reported observation)  
 **Privacy:** No account names, email addresses, SIDs, or other identifiers are included.
 
@@ -10,9 +10,9 @@ Review the accounts visible on the learner's own Windows device and determine wh
 
 ## Observation recorded
 
-The learner opened **Settings → Accounts → Other users** and reported that **one account** was visible in that section.
+The learner opened **Settings → Accounts → Other users** and reported that **one account** was visible in that section. The learner then checked **Settings → Accounts → Your info** and reported that the currently signed-in account is labelled **Administrator**.
 
-This is a user-reported count only. It does not establish the total number of Windows accounts on the device, and it does not identify the account's role. The account could be an Administrator or a Standard User; this has not yet been checked.
+These are user-reported observations. The Administrator label applies to the current signed-in account; it does **not** establish the role of the separate account listed under Other users, nor the total number of accounts on the device.
 
 ## Security interpretation
 
@@ -21,20 +21,18 @@ This is a user-reported count only. It does not establish the total number of Wi
 - A standard account is generally preferable for everyday work; administrative actions can be performed with approved elevation when required.
 - Account names and personal identifiers are intentionally excluded from this public report.
 
-## Verification still required
+## Review result
 
-The local account role cannot be inspected remotely from this GitHub workflow. On the Windows device, open **Settings → Accounts → Your info** and check whether the account is labelled **Administrator**. Alternatively, in PowerShell, run:
-
-```powershell
-whoami /groups
-```
-
-Look for the local Administrators group entry; group membership details should be interpreted carefully, and no usernames or full command output need to be published. A safer summary to record here is only the role label: **Administrator** or **Standard User**.
+- Current signed-in account: **Administrator** (learner-reported from Windows Settings → Accounts → Your info).
+- Other users section: **one account visible** (learner-reported); its individual role has not been checked.
+- No account settings or group memberships were changed.
 
 ## Conclusion
 
-The initial listing observation has been documented, but this practical is **not marked complete** because the account's privilege level has not been verified. No account configuration was changed, and no credentials or personal identifiers were collected.
+This practical is marked **completed for the current-account privilege review**. The review confirms that the current signed-in account has Administrator privileges, so it can perform elevated system tasks. For everyday activity, a Standard User account is generally preferable where practical, with elevation used only when needed. The separate account listed under Other users remains unclassified; do not assume it is an Administrator.
+
+No credentials or personal identifiers were collected.
 
 ## Evidence
 
-No screenshot was supplied for this practical. The account count above is recorded from the learner's message; role verification remains pending.
+No screenshot was supplied for this practical. Both observations are recorded from the learner's messages; no usernames or personal identifiers are included.
