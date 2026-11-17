@@ -14,6 +14,10 @@ Only use systems and accounts you own or are explicitly authorized to use.
 10. **Incident-response tabletop:** create a timeline, evidence list, containment proposal, and uncertainty notes for a fictional case.
 11. **Backup plan:** back up non-sensitive study files and test restoring one file.
 
+## Practical progress
+
+- [Practical 01 — Asset Inventory](lab/lab-01-asset-inventory.md) — **Completed (initial inventory; some hardware query fields remain unverified).**
+
 ## Evidence record
 For each exercise, record date, general environment, objective, steps performed, actual observations, safe screenshot filename, what the result proves and does not prove, problems, and next action.
 
