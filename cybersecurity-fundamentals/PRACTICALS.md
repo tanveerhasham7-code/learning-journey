@@ -31,3 +31,5 @@ Do not invent output or mark exercises complete just because instructions exist.
 - [Practical 07 — Phishing Tabletop](lab/lab-07-phishing-tabletop.md) — **Reference report prepared (assistant-authored fictional worked example; learner walkthrough and independent completion remain pending).**
 
 - [Practical 08 — Patch Review](lab/lab-08-patch-review.md) — **Reference report prepared (uses learner-reported Windows Update status from Practical 03; fresh check and learner completion remain pending).**
+
+- [Practical 09 — Log Reading](lab/lab-09-log-reading.md) — **Reference report prepared (fictional Windows Security events 4624 and 4625; inspection of a real local event remains pending).**
