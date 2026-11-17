@@ -1,7 +1,5 @@
 # Practical 01 — Asset Inventory
 
-<badge>...</badge>
-
 ## Objective
 Identify the main hardware, operating system, security software, applications, network interfaces, virtual machines, and study-data assets on a personally owned Windows computer. This is a defensive inventory exercise; no scanning or configuration changes were performed.
 
