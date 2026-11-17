@@ -37,7 +37,13 @@ This is the expected result. A cryptographic hash produces a fixed-length digest
 
 ## Limitations and evidence
 
-The learner confirmed that the hashes differed, but the exact hash strings and screenshots were not supplied. The report therefore records the result without inventing hash values or claiming independent verification. The test used a harmless text file; no sensitive files were used.
+The learner uploaded one screenshot as supporting evidence. It is embedded below. The exact hash strings are not transcribed into this report; the result remains recorded as learner-reported. The test used a harmless text file; no sensitive files were used.
+
+### Screenshot evidence
+
+![Practical 06 — SHA-256 integrity check](screenshort/lab6/Screenshot%202026-11-17%20144915.png)
+
+*Figure 1: Screenshot uploaded by the learner for the SHA-256 integrity practical.*
 
 ## Conclusion
 
