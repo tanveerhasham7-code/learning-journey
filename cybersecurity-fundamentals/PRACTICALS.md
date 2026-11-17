@@ -17,6 +17,7 @@ Only use systems and accounts you own or are explicitly authorized to use.
 ## Practical progress
 
 - [Practical 01 — Asset Inventory](lab/lab-01-asset-inventory.md) — **Completed (initial inventory; some hardware query fields remain unverified).**
+- [Practical 02 — CIA Triad Analysis](lab/lab-02-cia-triad-analysis.md) — **Completed (four scenario answers and reasoning documented; no screenshots taken).**
 
 ## Evidence record
 For each exercise, record date, general environment, objective, steps performed, actual observations, safe screenshot filename, what the result proves and does not prove, problems, and next action.
