@@ -11,7 +11,7 @@ whoami
 id
 uptime
 ```
-Evidence: terminal screenshot and explanation of kernel versus distribution.
+Evidence: [completed Lab 1 report with three embedded screenshots](lab/lab-01-system-identification.md). **Status: Completed (17 November 2026).**
 
 ## Lab 2 — Files and directories
 Create a project folder, three files, copy and rename one, search for a phrase with grep, and inspect metadata with stat. Evidence: commands and final directory listing.
