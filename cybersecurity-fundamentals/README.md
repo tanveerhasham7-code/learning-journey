@@ -28,6 +28,7 @@ This is a core foundation module in my learning journey. It builds on networking
 
 - [Practical Exercises and Evidence Checklist](PRACTICALS.md)
 - [Practical 01 — Asset Inventory (Completed)](lab/lab-01-asset-inventory.md)
+- [Practical 02 — CIA Triad Analysis (Completed)](lab/lab-02-cia-triad-analysis.md)
 - [Essential Cybersecurity Glossary](GLOSSARY.md)
 
 ## Practical work
@@ -35,6 +36,7 @@ This is a core foundation module in my learning journey. It builds on networking
 | Practical | Focus | Status | Documentation |
 |---|---|---|---|
 | Practical 01 | Asset Inventory — identify and record hardware, operating system, security software, applications, network adapters, virtual machines, and study-data assets | **Completed** (initial inventory; some hardware details remain unverified) | [Open report and 8 screenshots](lab/lab-01-asset-inventory.md) |
+| Practical 02 | CIA Triad Analysis — classify four fictional security scenarios and explain the affected principle | **Completed** (written answers; no screenshots) | [Open report](lab/lab-02-cia-triad-analysis.md) |
 
 All practical exercises and their evidence requirements are listed in [PRACTICALS.md](PRACTICALS.md). More practical reports will be added here as they are completed.
 
