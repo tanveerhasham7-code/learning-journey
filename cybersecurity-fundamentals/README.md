@@ -37,6 +37,7 @@ This is a core foundation module in my learning journey. It builds on networking
 - [Practical 08 — Patch Review (Assistant-prepared reference; fresh check pending)](lab/lab-08-patch-review.md)
 - [Practical 09 — Log Reading (Assistant-prepared reference; local event inspection pending)](lab/lab-09-log-reading.md)
 - [Practical 10 — Incident Response Tabletop (Assistant-prepared reference; learner walkthrough pending)](lab/lab-10-incident-response-tabletop.md)
+- [Practical 11 — Backup Plan (Assistant-prepared reference; restore test pending)](lab/lab-11-backup-plan.md)
 - [Essential Cybersecurity Glossary](GLOSSARY.md)
 
 ## Practical work
@@ -53,6 +54,7 @@ This is a core foundation module in my learning journey. It builds on networking
 | Practical 08 | Patch Review — inspect operating-system update status and record pending patches | **Reference prepared** (earlier learner-reported Windows Update status recorded; fresh check pending) | [Open report](lab/lab-08-patch-review.md) |
 | Practical 09 | Log Reading — inspect a Windows event and interpret timestamp, source, and event ID | **Reference prepared** (fictional Security events documented; learner's local event inspection pending) | [Open report](lab/lab-09-log-reading.md) |
 | Practical 10 | Incident Response Tabletop — build a timeline, evidence plan, containment proposal, and recovery steps | **Reference prepared** (fictional account-security scenario; learner walkthrough pending) | [Open report](lab/lab-10-incident-response-tabletop.md) |
+| Practical 11 | Backup Plan — design a 3-2-1 backup approach and test restoring a harmless file | **Reference prepared** (backup and restore procedure documented; hands-on restore pending) | [Open report](lab/lab-11-backup-plan.md) |
 
 All practical exercises and their evidence requirements are listed in [PRACTICALS.md](PRACTICALS.md). More practical reports will be added here as they are completed.
 
