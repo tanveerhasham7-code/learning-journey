@@ -61,5 +61,11 @@ For each completed lab, save the objective, theory, topology, commands actually 
 - [ ] Authorized security-tool labs
 - [ ] Final secure-server project
 
+
+## Practical lab progress
+
+- [x] [Lab 1 — Linux system identification](lab/lab-01-system-identification.md) — completed with three screenshot evidence images.
+- [ ] Lab 2 — Files and directories
+
 ## Final portfolio project: Secure a Linux server
 Create a non-root administrator, update the OS, review services and listening ports, configure a host firewall, review SSH securely, inspect authentication logs, run an authorized service inventory from Kali, remediate unnecessary exposure and write a before/after report.
