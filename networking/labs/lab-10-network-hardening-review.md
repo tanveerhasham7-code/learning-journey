@@ -94,63 +94,63 @@ All 15 uploaded screenshots are embedded below in the order they document the la
 
 ### VLAN creation and initial Packet Tracer topology
 
-![VLAN creation and initial Packet Tracer topology](screenshots/lab-10/Screenshot 2026-11-17 095011.png)
+![VLAN creation and initial Packet Tracer topology](screenshots/lab-10/Screenshot%202026-11-17%20095011.png)
 
 ### Switch access-port assignment and trunk configuration commands
 
-![Switch access-port assignment and trunk configuration commands](screenshots/lab-10/Screenshot 2026-11-17 095452.png)
+![Switch access-port assignment and trunk configuration commands](screenshots/lab-10/Screenshot%202026-11-17%20095452.png)
 
 ### Switch VLAN table: VLANs 10, 20, 30 and 99 with access ports
 
-![Switch VLAN table: VLANs 10, 20, 30 and 99 with access ports](screenshots/lab-10/Screenshot 2026-11-17 095508.png)
+![Switch VLAN table: VLANs 10, 20, 30 and 99 with access ports](screenshots/lab-10/Screenshot%202026-11-17%20095508.png)
 
 ### Router-on-a-Stick subinterface configuration commands
 
-![Router-on-a-Stick subinterface configuration commands](screenshots/lab-10/Screenshot 2026-11-17 095857.png)
+![Router-on-a-Stick subinterface configuration commands](screenshots/lab-10/Screenshot%202026-11-17%20095857.png)
 
 ### Router interface summary; VLAN 99 subinterface is absent from this output
 
-![Router interface summary; VLAN 99 subinterface is absent from this output](screenshots/lab-10/Screenshot 2026-11-17 100139.png)
+![Router interface summary; VLAN 99 subinterface is absent from this output](screenshots/lab-10/Screenshot%202026-11-17%20100139.png)
 
 ### PC0 Users VLAN static IPv4 configuration
 
-![PC0 Users VLAN static IPv4 configuration](screenshots/lab-10/Screenshot 2026-11-17 100230.png)
+![PC0 Users VLAN static IPv4 configuration](screenshots/lab-10/Screenshot%202026-11-17%20100230.png)
 
 ### PC1 Guest VLAN static IPv4 configuration
 
-![PC1 Guest VLAN static IPv4 configuration](screenshots/lab-10/Screenshot 2026-11-17 100318.png)
+![PC1 Guest VLAN static IPv4 configuration](screenshots/lab-10/Screenshot%202026-11-17%20100318.png)
 
 ### PC2 Management VLAN static IPv4 configuration
 
-![PC2 Management VLAN static IPv4 configuration](screenshots/lab-10/Screenshot 2026-11-17 100402.png)
+![PC2 Management VLAN static IPv4 configuration](screenshots/lab-10/Screenshot%202026-11-17%20100402.png)
 
 ### PC3 Admin host static IPv4 configuration
 
-![PC3 Admin host static IPv4 configuration](screenshots/lab-10/Screenshot 2026-11-17 100441.png)
+![PC3 Admin host static IPv4 configuration](screenshots/lab-10/Screenshot%202026-11-17%20100441.png)
 
 ### Server0 static IPv4 configuration
 
-![Server0 static IPv4 configuration](screenshots/lab-10/Screenshot 2026-11-17 100520.png)
+![Server0 static IPv4 configuration](screenshots/lab-10/Screenshot%202026-11-17%20100520.png)
 
 ### Pre-ACL baseline ping tests from PC0; initial ARP-related first-packet timeouts followed by replies
 
-![Pre-ACL baseline ping tests from PC0; initial ARP-related first-packet timeouts followed by replies](screenshots/lab-10/Screenshot 2026-11-17 100846.png)
+![Pre-ACL baseline ping tests from PC0; initial ARP-related first-packet timeouts followed by replies](screenshots/lab-10/Screenshot%202026-11-17%20100846.png)
 
 ### Extended ACL GUEST-IN configuration and inbound application on G0/0.30
 
-![Extended ACL GUEST-IN configuration and inbound application on G0/0.30](screenshots/lab-10/Screenshot 2026-11-17 101014.png)
+![Extended ACL GUEST-IN configuration and inbound application on G0/0.30](screenshots/lab-10/Screenshot%202026-11-17%20101014.png)
 
 ### Guest host ping tests to Users, Server and Management destinations blocked
 
-![Guest host ping tests to Users, Server and Management destinations blocked](screenshots/lab-10/Screenshot 2026-11-17 101337.png)
+![Guest host ping tests to Users, Server and Management destinations blocked](screenshots/lab-10/Screenshot%202026-11-17%20101337.png)
 
 ### Post-ACL authorized PC0-to-Server ping succeeds 4/4
 
-![Post-ACL authorized PC0-to-Server ping succeeds 4/4](screenshots/lab-10/Screenshot 2026-11-17 101504.png)
+![Post-ACL authorized PC0-to-Server ping succeeds 4/4](screenshots/lab-10/Screenshot%202026-11-17%20101504.png)
 
 ### ACL counters show four matches on each deny entry; interface summary also shows missing VLAN 99 subinterface
 
-![ACL counters show four matches on each deny entry; interface summary also shows missing VLAN 99 subinterface](screenshots/lab-10/Screenshot 2026-11-17 101635.png)
+![ACL counters show four matches on each deny entry; interface summary also shows missing VLAN 99 subinterface](screenshots/lab-10/Screenshot%202026-11-17%20101635.png)
 
 ## 8. Final status
 
