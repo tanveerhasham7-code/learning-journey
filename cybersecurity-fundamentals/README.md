@@ -35,6 +35,7 @@ This is a core foundation module in my learning journey. It builds on networking
 - [Practical 06 — SHA-256 Integrity (Completed)](lab/lab-06-sha256-integrity.md)
 - [Practical 07 — Phishing Tabletop (Assistant-prepared reference; learner completion pending)](lab/lab-07-phishing-tabletop.md)
 - [Practical 08 — Patch Review (Assistant-prepared reference; fresh check pending)](lab/lab-08-patch-review.md)
+- [Practical 09 — Log Reading (Assistant-prepared reference; local event inspection pending)](lab/lab-09-log-reading.md)
 - [Essential Cybersecurity Glossary](GLOSSARY.md)
 
 ## Practical work
@@ -49,6 +50,7 @@ This is a core foundation module in my learning journey. It builds on networking
 | Practical 06 | SHA-256 Integrity — hash a harmless file, modify its content, and compare digests | **Completed** (learner reported different hashes; screenshot embedded; exact values not transcribed) | [Open report](lab/lab-06-sha256-integrity.md) |
 | Practical 07 | Phishing Tabletop — identify warning signs and safe reporting steps in a fictional email | **Reference prepared** (assistant-authored worked example; learner completion pending) | [Open report](lab/lab-07-phishing-tabletop.md) |
 | Practical 08 | Patch Review — inspect operating-system update status and record pending patches | **Reference prepared** (earlier learner-reported Windows Update status recorded; fresh check pending) | [Open report](lab/lab-08-patch-review.md) |
+| Practical 09 | Log Reading — inspect a Windows event and interpret timestamp, source, and event ID | **Reference prepared** (fictional Security events documented; learner's local event inspection pending) | [Open report](lab/lab-09-log-reading.md) |
 
 All practical exercises and their evidence requirements are listed in [PRACTICALS.md](PRACTICALS.md). More practical reports will be added here as they are completed.
 
