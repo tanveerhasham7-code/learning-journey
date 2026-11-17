@@ -27,6 +27,7 @@ This is a core foundation module in my learning journey. It builds on networking
 14. [Professional Ethics and Safe Practice](14-ethics-and-safe-practice.md)
 
 - [Practical Exercises and Evidence Checklist](PRACTICALS.md)
+- [Practical 01 — Asset Inventory (Completed)](lab/lab-01-asset-inventory.md)
 - [Essential Cybersecurity Glossary](GLOSSARY.md)
 
 ## Completion standard
