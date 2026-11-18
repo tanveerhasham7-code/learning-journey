@@ -1,7 +1,7 @@
 # Lab 11 — Kali-to-Ubuntu Lab Connection
 
-**Status: Reference prepared — learner execution and evidence pending.**  
-This guide provides a complete procedure for building and verifying an isolated connection between your own Kali and Ubuntu virtual machines. It has not been executed on the learner's VMs. Record actual interface names, IP addresses, and results; do not treat example values as observed results.
+**Status: Completed — learner-confirmed practice (18 November 2026).**  
+The learner confirmed that they practiced this lab. No screenshots or terminal output were supplied in this update; completion is therefore recorded as learner-confirmed rather than independently verified. Actual interface names, IP addresses and connectivity results are not claimed here.
 
 ## 1. Objective
 
@@ -150,3 +150,6 @@ Mark this lab **Completed** only after you:
 - Save sanitized evidence and answer the review questions.
 
 **Current repository status:** Reference prepared only. No VMware settings or VM network configurations were changed by the assistant, and no connectivity tests were run on the learner's VMs.
+
+
+**Completion note (18 November 2026):** The learner confirmed that they practiced the Kali-to-Ubuntu connection lab. No screenshots or terminal output were supplied with this update, so actual IP addresses, ping results or neighbor-table entries are not reproduced here.
