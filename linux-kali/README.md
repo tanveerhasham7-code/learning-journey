@@ -59,7 +59,7 @@ For each completed lab, save the objective, theory, topology, commands actually 
 - [ ] Linux hardening
 - [x] Kali setup and isolated lab connection (Lab 11 completed)
 - [x] Authorized security-tool labs (Labs 12–13 completed; further tool practice may continue)
-- [ ] Final secure-server project
+- [x] Final secure-server project (Lab 14 learner-confirmed completed; evidence not supplied)
 
 
 ## Practical lab progress
@@ -77,6 +77,7 @@ For each completed lab, save the objective, theory, topology, commands actually 
 - [x] [Lab 11 — Kali-to-Ubuntu lab connection](lab/lab-11-kali-to-ubuntu-connection.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
 - [x] [Lab 12 — Nmap authorized inventory](lab/lab-12-nmap-authorized-inventory.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
 - [x] [Lab 13 — Wireshark packet analysis](lab/lab-13-wireshark-packet-analysis.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
+- [x] [Lab 14 — Final project: Secure a Linux server](lab/lab-14-secure-linux-server-project.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
 
 ## Final portfolio project: Secure a Linux server
-Create a non-root administrator, update the OS, review services and listening ports, configure a host firewall, review SSH securely, inspect authentication logs, run an authorized service inventory from Kali, remediate unnecessary exposure and write a before/after report.
+**Status: Learner-confirmed completed (18 November 2026).** The capstone practice is marked complete based on the learner's confirmation. No screenshots or terminal output were supplied, so specific server settings, scan findings, remediation and retest outcomes are not independently verified. See the [Lab 14 project report](lab/lab-14-secure-linux-server-project.md).
