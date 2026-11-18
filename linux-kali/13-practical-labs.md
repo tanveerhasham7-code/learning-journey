@@ -26,7 +26,7 @@ Create a file in a dedicated home-directory practice folder; test modes `600`, `
 Start a harmless `sleep 300` process; identify its PID, owner and state with `ps` and `pgrep`; terminate it gracefully with `kill -TERM`; verify it ended; inspect the actual state of NetworkManager using `systemctl status`. Reference: [Lab 5 processes and services procedure](lab/lab-05-processes-and-services.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 6 — Package management
-Update package metadata, inspect a small package, install it, verify it, then remove it. Explain why apt update differs from apt upgrade.
+Refresh package metadata with `sudo apt update`; inspect the `tree` package using `apt show`; install it with `sudo apt install tree`; verify using `tree --version` and `dpkg -s`; remove it with `sudo apt remove tree`; explain the difference between `apt update` and `apt upgrade`. Reference: [Lab 6 package management procedure](lab/lab-06-package-management.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 7 — Linux network diagnostics
 On two lab VMs, check interface addresses and routes, ping the other VM, inspect the neighbor table, resolve a domain if DNS is intentionally available, and inspect listening sockets. Save the IP plan and a simple diagram.
