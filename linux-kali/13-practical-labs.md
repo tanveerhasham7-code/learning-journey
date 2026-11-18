@@ -32,7 +32,7 @@ Refresh package metadata with `sudo apt update`; inspect the `tree` package usin
 Connect owned Kali and Ubuntu VMs to the same Host-only or Internal Network. Record actual interface addresses and routes; ping Ubuntu from Kali; inspect `ip neigh`; test DNS with `getent hosts` or `nslookup` when a resolver is available; inspect listening sockets with `ss -tuln`; complete an IP plan and network diagram. Reference: [Lab 7 network diagnostics procedure](lab/lab-07-network-diagnostics.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 8 — Bash inventory script
-Write a script that records hostname, OS release, kernel, date, IP addresses, routes, disk usage and listening sockets. Run as a standard user and review the report for sensitive information before publishing.
+Create `system-inventory.sh` to collect hostname, date, OS release, kernel, current user, interface addresses, routes, disk usage and listening TCP/UDP sockets. Run as a normal user, inspect the timestamped report, and redact sensitive details before sharing. Reference: [Lab 8 Bash inventory script procedure](lab/lab-08-bash-inventory-script.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 9 — Log analysis
 Generate a few failed logins against your own SSH lab VM (if configured). Inspect journal/authentication logs, note timestamp, username and source. Compare with a successful login. Do not test external hosts.
