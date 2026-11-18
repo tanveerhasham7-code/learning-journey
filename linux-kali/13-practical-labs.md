@@ -41,11 +41,7 @@ Inspect authentication events on your own Linux lab VM using `journalctl` and, i
 Inspect UFW status and existing rules; on a disposable VM with console access, apply a reviewed default policy, add only a necessary narrowly scoped inbound rule, enable UFW safely, and verify active rules. Include a snapshot/console rollback plan; do not test external systems. Reference: [Lab 10 UFW firewall basics procedure](lab/lab-10-firewall-basics.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 11 — Kali-to-Ubuntu lab connection
-Set Kali and Ubuntu VMs to the same Host-only or Internal Network. Example addresses:
-- Kali: 192.168.56.20/24
-- Ubuntu target: 192.168.56.30/24
-
-Check ip -br addr, ping between VMs and inspect ARP/neighbor tables. A gateway is not required for communication within this same subnet.
+Connect both owned VMs to the same isolated Host-only network; inspect actual interface addresses and routes; verify same-subnet addressing; test ping in both directions; and inspect ARP/neighbor tables. Example IPs are illustrative only. Reference: [Lab 11 Kali-to-Ubuntu connection procedure](lab/lab-11-kali-to-ubuntu-connection.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 12 — Nmap authorized inventory
 From Kali, scan only the Ubuntu target you own:
