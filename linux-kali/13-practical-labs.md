@@ -20,7 +20,7 @@ Create a practice folder and three files; write/read content; copy, rename, move
 Create two temporary users and a shared group; configure a group-owned `2770` setgid directory; verify both users can create files; inspect ownership; then remove the test users, group and directory. Evidence: [completed Lab 3 report](lab/lab-03-users-and-groups.md). **Status: Completed (18 November 2026; learner-confirmed command execution, no screenshots).**
 
 ## Lab 4 — Permissions
-Create a file and test modes 600, 640 and 644. Explain which users can read/write it. Restore a sensible final mode. Never change permissions on system files.
+Create a file in a dedicated home-directory practice folder; test modes `600`, `640` and `644`; inspect each with `stat`; restore mode `600`; then clean up. Reference: [Lab 4 permissions procedure](lab/lab-04-permissions.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 5 — Processes and services
 Run a harmless sleep process, identify it with ps/pgrep, terminate gracefully and inspect a systemd service. Record process ID, owner and service state.
