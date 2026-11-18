@@ -1,7 +1,7 @@
 # Lab 10 — Firewall Basics (UFW)
 
-**Status: Reference prepared — learner execution and evidence pending.**  
-This guide is a safe procedure for a disposable Kali/Ubuntu lab VM. It has not been executed on the learner's VM. Do not mark this lab complete until you perform the steps, record actual results, and verify rollback access.
+**Status: Completed — learner-confirmed practice (18 November 2026).**  
+The learner confirmed that they practiced this lab. No screenshots or terminal output were supplied in this update; therefore, completion is recorded as learner-confirmed rather than independently verified.
 
 ## 1. Objective
 
@@ -167,4 +167,4 @@ Mark this lab **Completed** only after you:
 - Complete the questions and save sanitized evidence.
 - Confirm you can still administer the VM or have successfully rolled back.
 
-**Current repository status:** Reference prepared only. No firewall was changed and no commands were run on the learner's VM by the assistant.
+**Completion note (18 November 2026):** The learner confirmed that they practiced this lab. No screenshots or terminal output were supplied in this update, so specific UFW policies, rules, firewall status or connectivity outcomes are not claimed here. The assistant did not access or change the learner's VM.
