@@ -35,7 +35,7 @@ Connect owned Kali and Ubuntu VMs to the same Host-only or Internal Network. Rec
 Create `system-inventory.sh` to collect hostname, date, OS release, kernel, current user, interface addresses, routes, disk usage and listening TCP/UDP sockets. Run as a normal user, inspect the timestamped report, and redact sensitive details before sharing. Reference: [Lab 8 Bash inventory script procedure](lab/lab-08-bash-inventory-script.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 9 — Log analysis
-Generate a few failed logins against your own SSH lab VM (if configured). Inspect journal/authentication logs, note timestamp, username and source. Compare with a successful login. Do not test external hosts.
+Inspect authentication events on your own Linux lab VM using `journalctl` and, if present, `/var/log/auth.log`. Identify failed and successful SSH authentication messages, timestamps, usernames and source addresses where recorded. Generate at most one controlled failed attempt only if SSH is already safely configured; otherwise analyze existing logs or use the clearly labeled fictional examples in the guide. Never test external systems. Reference: [Lab 9 authentication log analysis procedure](lab/lab-09-log-analysis.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 10 — Firewall basics
 In a disposable VM with console access, inspect UFW status, allow the required lab management service, enable UFW and verify allowed/blocked behavior. Have a snapshot/rollback plan before changing firewall policy.
