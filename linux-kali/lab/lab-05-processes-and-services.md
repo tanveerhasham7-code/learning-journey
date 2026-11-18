@@ -1,6 +1,6 @@
 # Linux Lab 5 — Processes and Services
 
-**Status: Reference prepared — learner execution and evidence pending.**
+**Status: Completed — learner confirmed practice on 18 November 2026.**
 
 ## 1. Objective
 
@@ -89,7 +89,7 @@ After successful execution, you should be able to:
 - Send SIGTERM to end your own harmless test process.
 - Explain that systemd manages services and `systemctl status` inspects their state.
 
-These are learning expectations, not observations from the learner's VM.
+These are the intended learning outcomes. The learner confirmed practicing the lab, but exact terminal output was not supplied for independent verification.
 
 ## 7. Evidence checklist
 
@@ -110,4 +110,4 @@ Mark this lab **Completed** only after the learner has:
 4. Inspected a systemd service and recorded its actual state.
 5. Saved evidence or explicitly confirmed the observed results.
 
-**Current result:** Documentation is prepared. No commands have been executed on the learner's Kali VM by the assistant, and no actual process/service observations are claimed.
+**Completion note:** The learner confirmed completing the practice on 18 November 2026. No screenshots or exact terminal output were supplied; this report records learner-confirmed completion and does not claim independent verification of VM observations.
