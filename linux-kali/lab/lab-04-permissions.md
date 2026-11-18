@@ -1,8 +1,8 @@
 # Lab 4 — Linux File Permissions
 
-**Status:** Reference prepared — learner execution pending  
+**Status:** Completed — learner confirmed practice on 18 November 2026  
 **Environment:** Kali Linux VM (planned)  
-**Execution evidence:** Not yet supplied
+**Execution evidence:** Learner confirmed the practical was performed; screenshots or terminal output were not supplied.
 
 ## Objective
 
@@ -13,7 +13,7 @@ Understand Linux owner, group and other permission classes by safely testing per
 - Work only in a dedicated directory under your home folder.
 - Do not change permissions on system files or directories.
 - Do not use `sudo` for this exercise.
-- The commands below are a procedure for the learner to execute; they have not been run on the learner's VM by the assistant.
+- The learner has confirmed completing the practice. The commands below document the procedure; the assistant did not execute them on the learner's VM.
 
 ## Theory
 
@@ -110,7 +110,7 @@ The cleanup commands remove only the practice file and the empty practice direct
 | 640 | Yes | Yes | No | No |
 | 644 | Yes | Yes | Yes | No |
 
-These are expected permission semantics, not observations captured from the learner's VM.
+These are the expected permission semantics. The learner confirmed practicing the lab, but exact terminal outputs were not supplied for independent verification.
 
 ## Troubleshooting
 
@@ -124,7 +124,7 @@ Correct file permissions help protect configuration files, scripts, logs and use
 
 ## Evidence checklist
 
-- [ ] Screenshot or sanitized terminal transcript showing mode 600.
+- [x] Learner confirmed practicing the permissions lab (18 November 2026); no screenshot supplied.
 - [ ] Screenshot or sanitized terminal transcript showing mode 640.
 - [ ] Screenshot or sanitized terminal transcript showing mode 644.
 - [ ] Final verification showing mode 600 restored.
@@ -132,4 +132,4 @@ Correct file permissions help protect configuration files, scripts, logs and use
 
 ## Completion criteria
 
-Mark this lab **Completed** only after the learner executes the procedure, checks the actual permission output, restores mode `600`, cleans up the practice directory and supplies the evidence or confirms the observed results. Until then, this document is a prepared reference, not proof of execution.
+**Completion note:** The learner confirmed that they practiced this lab on 18 November 2026, so the workbook status is marked Completed. No screenshots or exact terminal outputs were supplied; this report does not claim independent verification of the VM results.
