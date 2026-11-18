@@ -1,6 +1,6 @@
 # Linux Lab 7 — Network Diagnostics
 
-**Status: Reference prepared — learner execution and evidence pending.**
+**Status: Completed — learner-confirmed practice (18 November 2026).**
 
 ## 1. Objective
 
@@ -161,4 +161,4 @@ Mark this lab **Completed** only after the learner has:
 5. Completed the IP plan and network diagram.
 6. Saved evidence or explicitly confirmed the actual observations.
 
-**Current result:** The procedure and templates are prepared. The assistant has not configured or tested the learner's VMs; no connectivity, DNS or listening-port results are claimed.
+**Completion note (18 November 2026):** The learner confirmed that they practiced this lab. No screenshots or terminal output were supplied in this update, so the completion status is recorded as learner-confirmed rather than independently verified. Specific IP addresses, ping results, DNS results and listening ports are not reproduced here because no outputs were provided.
