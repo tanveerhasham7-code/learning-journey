@@ -50,22 +50,12 @@ From Kali, scan only your own Ubuntu VM on the isolated lab network. Confirm its
 Capture and analyze your own ICMP ping and DNS lookup on the isolated lab network. Identify Ethernet/IP addresses, protocols, ports where applicable, and request/response behavior. Save only reviewed, sanitized evidence. [Detailed Lab 13 guide](lab/lab-13-wireshark-packet-analysis.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 14 — Final project: Secure a Linux server
-Scenario: you are responsible for a small Ubuntu server used by a fictional organization.
 
-Deliverables:
-1. Network diagram and IP address plan.
-2. OS/kernel and package inventory.
-3. Standard admin user and least-privilege explanation.
-4. Permissions review for a project directory.
-5. Running service and listening-port inventory.
-6. Firewall policy and verification.
-7. SSH configuration review and safe validation.
-8. Authentication/system log review.
-9. Kali-based authorized service inventory.
-10. Before/after hardening comparison.
-11. Findings, risk, remediation and retest report.
+Capstone project: assess and harden your own isolated Ubuntu Server VM using Kali as the authorized assessment workstation. Establish a baseline, review accounts and permissions, inventory services, review firewall and SSH safely, inspect logs, perform a single-host Nmap inventory, document evidence-based findings, apply justified remediation, and retest.
 
-Report structure: executive summary, scope and authorization, environment/topology, methodology, findings/evidence, remediation, retest results, limitations and lessons learned.
+**Detailed guide:** [Lab 14 — Secure Linux Server Project](lab/lab-14-secure-linux-server-project.md).
+
+**Status: Project blueprint prepared — implementation and evidence pending.** Do not mark complete until actual VM checks, remediation and retesting are documented.
 
 ## Evidence template
 - Lab number/title:
