@@ -29,7 +29,7 @@ Start a harmless `sleep 300` process; identify its PID, owner and state with `ps
 Refresh package metadata with `sudo apt update`; inspect the `tree` package using `apt show`; install it with `sudo apt install tree`; verify using `tree --version` and `dpkg -s`; remove it with `sudo apt remove tree`; explain the difference between `apt update` and `apt upgrade`. Reference: [Lab 6 package management procedure](lab/lab-06-package-management.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 7 — Linux network diagnostics
-On two lab VMs, check interface addresses and routes, ping the other VM, inspect the neighbor table, resolve a domain if DNS is intentionally available, and inspect listening sockets. Save the IP plan and a simple diagram.
+Connect owned Kali and Ubuntu VMs to the same Host-only or Internal Network. Record actual interface addresses and routes; ping Ubuntu from Kali; inspect `ip neigh`; test DNS with `getent hosts` or `nslookup` when a resolver is available; inspect listening sockets with `ss -tuln`; complete an IP plan and network diagram. Reference: [Lab 7 network diagnostics procedure](lab/lab-07-network-diagnostics.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 8 — Bash inventory script
 Write a script that records hostname, OS release, kernel, date, IP addresses, routes, disk usage and listening sockets. Run as a standard user and review the report for sensitive information before publishing.
