@@ -47,7 +47,7 @@ Connect both owned VMs to the same isolated Host-only network; inspect actual in
 From Kali, scan only your own Ubuntu VM on the isolated lab network. Confirm its actual IP, check reachability, run host discovery and TCP service/version detection, verify listening services locally on Ubuntu, and document evidence-based hardening recommendations. Example IPs are not assumed to match your network. Reference: [Lab 12 Nmap authorized inventory procedure](lab/lab-12-nmap-authorized-inventory.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 13 — Wireshark packet analysis
-Capture your own ping and DNS query. Identify source/destination MAC and IP, protocol, ports where applicable, and request/response behavior. Save a sanitized capture only if it contains no private data.
+Capture and analyze your own ICMP ping and DNS lookup on the isolated lab network. Identify Ethernet/IP addresses, protocols, ports where applicable, and request/response behavior. Save only reviewed, sanitized evidence. [Detailed Lab 13 guide](lab/lab-13-wireshark-packet-analysis.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 14 — Final project: Secure a Linux server
 Scenario: you are responsible for a small Ubuntu server used by a fictional organization.
