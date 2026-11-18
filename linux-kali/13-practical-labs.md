@@ -55,7 +55,7 @@ Capstone project: assess and harden your own isolated Ubuntu Server VM using Kal
 
 **Detailed guide:** [Lab 14 — Secure Linux Server Project](lab/lab-14-secure-linux-server-project.md).
 
-**Status: Project blueprint prepared — implementation and evidence pending.** Do not mark complete until actual VM checks, remediation and retesting are documented.
+**Status: Completed (18 November 2026; learner-confirmed practice, no screenshots or terminal output supplied).** The learner confirmed completing the project practice; specific VM settings, findings and retest results are not independently verified.
 
 ## Evidence template
 - Lab number/title:
