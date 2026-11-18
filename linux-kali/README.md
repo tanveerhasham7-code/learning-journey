@@ -52,7 +52,7 @@ For each completed lab, save the objective, theory, topology, commands actually 
 - [ ] Linux fundamentals and terminal
 - [ ] Filesystem and storage
 - [x] Users, groups and permissions (Labs 3–4 completed)
-- [x] Processes and services (Lab 5 completed); package management pending
+- [x] Processes, services and package management (Labs 5–6 completed)
 - [ ] Networking and firewall basics
 - [ ] Bash scripting
 - [ ] Logs and monitoring
@@ -69,6 +69,7 @@ For each completed lab, save the objective, theory, topology, commands actually 
 - [x] [Lab 3 — Users and groups](lab/lab-03-users-and-groups.md) — completed (18 November 2026; command-based report, no screenshots).
 - [x] [Lab 4 — Linux file permissions](lab/lab-04-permissions.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
 - [x] [Lab 5 — Processes and services](lab/lab-05-processes-and-services.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
+- [x] [Lab 6 — Package management](lab/lab-06-package-management.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
 
 ## Final portfolio project: Secure a Linux server
 Create a non-root administrator, update the OS, review services and listening ports, configure a host firewall, review SSH securely, inspect authentication logs, run an authorized service inventory from Kali, remediate unnecessary exposure and write a before/after report.
