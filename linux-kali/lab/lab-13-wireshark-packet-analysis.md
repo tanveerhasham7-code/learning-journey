@@ -1,6 +1,6 @@
 # Lab 13 — Wireshark Packet Analysis
 
-**Status: Reference prepared — learner execution and evidence pending.**  
+**Status: Completed (18 November 2026; learner-confirmed practice, no screenshots or terminal output supplied).**  
 This guide describes a safe packet-capture exercise on your own isolated lab network. The assistant has not captured traffic from your VMs and does not claim any real packet findings.
 
 ## 1. Objective
@@ -196,4 +196,4 @@ Mark this lab **Completed** only after you:
 - Answer the review questions.
 - Save sanitized evidence and document any missing responses or limitations.
 
-**Current repository status:** Reference prepared only. No traffic was captured by the assistant, no VM was accessed, and no actual packet values or results are claimed.
+**Completion note:** The learner confirmed completing the practice on 18 November 2026. No screenshots or terminal output were supplied, so this report records learner-confirmed completion without inventing packet addresses, DNS answers, capture details or other results. The assistant did not access the VM or capture traffic.
