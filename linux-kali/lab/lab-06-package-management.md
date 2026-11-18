@@ -1,6 +1,6 @@
 # Linux Lab 6 — Package Management with APT
 
-**Status: Reference prepared — learner execution and evidence pending.**
+**Status: Completed — learner confirmed practice on 18 November 2026.**
 
 ## 1. Objective
 
