@@ -55,7 +55,7 @@ For each completed lab, save the objective, theory, topology, commands actually 
 - [x] Processes, services and package management (Labs 5–6 completed)
 - [x] Linux network diagnostics (Lab 7 completed); firewall basics remain pending
 - [x] Bash scripting (Lab 8 completed)
-- [ ] Logs and monitoring
+- [x] Logs and monitoring (Lab 9 completed)
 - [ ] Linux hardening
 - [ ] Kali setup and isolated lab connection
 - [ ] Authorized security-tool labs
@@ -72,6 +72,7 @@ For each completed lab, save the objective, theory, topology, commands actually 
 - [x] [Lab 6 — Package management](lab/lab-06-package-management.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
 - [x] [Lab 7 — Network diagnostics](lab/lab-07-network-diagnostics.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
 - [x] [Lab 8 — Bash inventory script](lab/lab-08-bash-inventory-script.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
+- [x] [Lab 9 — Log analysis](lab/lab-09-log-analysis.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
 
 ## Final portfolio project: Secure a Linux server
 Create a non-root administrator, update the OS, review services and listening ports, configure a host firewall, review SSH securely, inspect authentication logs, run an authorized service inventory from Kali, remediate unnecessary exposure and write a before/after report.
