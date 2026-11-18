@@ -1,6 +1,6 @@
 # Lab 14 — Final Project: Secure a Linux Server
 
-**Status: Project blueprint prepared — implementation and evidence pending.**  
+**Status: Completed (18 November 2026; learner-confirmed practice, no screenshots or terminal output supplied).**  
 This guide is a structured capstone for a learner-owned Ubuntu Server VM. It provides a safe sequence, commands, report requirements and validation criteria. The assistant has not accessed or modified the learner's VMs, run scans, changed firewall/SSH settings, or generated real findings. All results must come from the learner's own lab.
 
 ## 1. Scenario and objective
@@ -293,7 +293,7 @@ Mark the capstone **Completed** only when all applicable items are supported by 
 - [ ] Before/after checks repeated and results recorded.
 - [ ] Final report and sanitized evidence saved.
 
-**Current repository status:** Project blueprint prepared. Implementation, actual findings, screenshots and retesting remain the learner's responsibility. No VM configuration has been changed by the assistant.
+**Completion note:** The learner confirmed completing this capstone practice on 18 November 2026. No screenshots, terminal output or final implementation evidence were supplied, so this report does not invent server settings, scan results, findings, remediation actions or retest outcomes. The checklist above remains an evidence guide; individual technical outcomes have not been independently verified. The assistant did not access or modify the learner's VMs.
 
 ## 16. Review questions
 
