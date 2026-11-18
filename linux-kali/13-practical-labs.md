@@ -23,7 +23,7 @@ Create two temporary users and a shared group; configure a group-owned `2770` se
 Create a file in a dedicated home-directory practice folder; test modes `600`, `640` and `644`; inspect each with `stat`; restore mode `600`; then clean up. Reference: [Lab 4 permissions procedure](lab/lab-04-permissions.md). **Status: Completed (18 November 2026; learner-confirmed practice).**
 
 ## Lab 5 — Processes and services
-Start a harmless `sleep 300` process; identify its PID, owner and state with `ps` and `pgrep`; terminate it gracefully with `kill -TERM`; verify it ended; inspect the actual state of NetworkManager using `systemctl status`. Reference: [Lab 5 processes and services procedure](lab/lab-05-processes-and-services.md). **Status: Reference prepared — learner execution and evidence pending.**
+Start a harmless `sleep 300` process; identify its PID, owner and state with `ps` and `pgrep`; terminate it gracefully with `kill -TERM`; verify it ended; inspect the actual state of NetworkManager using `systemctl status`. Reference: [Lab 5 processes and services procedure](lab/lab-05-processes-and-services.md). **Status: Completed (18 November 2026; learner-confirmed practice).**
 
 ## Lab 6 — Package management
 Refresh package metadata with `sudo apt update`; inspect the `tree` package using `apt show`; install it with `sudo apt install tree`; verify using `tree --version` and `dpkg -s`; remove it with `sudo apt remove tree`; explain the difference between `apt update` and `apt upgrade`. Reference: [Lab 6 package management procedure](lab/lab-06-package-management.md). **Status: Reference prepared — learner execution and evidence pending.**
