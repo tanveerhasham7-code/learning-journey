@@ -51,7 +51,7 @@ For each completed lab, save the objective, theory, topology, commands actually 
 ## Progress
 - [ ] Linux fundamentals and terminal
 - [ ] Filesystem and storage
-- [ ] Users, groups and permissions
+- [x] Users, groups and permissions (Labs 3–4 completed)
 - [ ] Processes, services and packages
 - [ ] Networking and firewall basics
 - [ ] Bash scripting
@@ -67,6 +67,7 @@ For each completed lab, save the objective, theory, topology, commands actually 
 - [x] [Lab 1 — Linux system identification](lab/lab-01-system-identification.md) — completed with three screenshot evidence images.
 - [x] [Lab 2 — Files and directories](lab/lab-02-files-and-directories.md) — completed (17 November 2026; command-based report, no screenshots).
 - [x] [Lab 3 — Users and groups](lab/lab-03-users-and-groups.md) — completed (18 November 2026; command-based report, no screenshots).
+- [x] [Lab 4 — Linux file permissions](lab/lab-04-permissions.md) — learner-confirmed practice completed (18 November 2026; no screenshots or terminal output supplied).
 
 ## Final portfolio project: Secure a Linux server
 Create a non-root administrator, update the OS, review services and listening ports, configure a host firewall, review SSH securely, inspect authentication logs, run an authorized service inventory from Kali, remediate unnecessary exposure and write a before/after report.
