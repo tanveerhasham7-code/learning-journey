@@ -1,6 +1,6 @@
 # Linux Lab 8 — Bash System Inventory Script
 
-**Status: Reference prepared — learner execution and evidence pending.**
+**Status: Completed — learner-confirmed practice (18 November 2026).**
 
 ## 1. Objective
 
@@ -189,3 +189,6 @@ Mark this lab **Completed** only after the learner has:
 6. Saved evidence or explicitly confirmed the observed results.
 
 **Current result:** This guide and script template are prepared. The assistant has not executed the script on the learner's Kali VM, and no generated report or runtime output is claimed.
+
+
+**Completion note (18 November 2026):** The learner confirmed that they practiced this lab. No screenshots or terminal output were supplied in this update, so completion is recorded as learner-confirmed rather than independently verified. The script's actual output is not reproduced here.
