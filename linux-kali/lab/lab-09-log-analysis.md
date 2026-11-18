@@ -1,6 +1,6 @@
 # Linux Lab 9 — Authentication Log Analysis
 
-**Status: Reference prepared — learner execution and evidence pending.**
+**Status: Completed — learner-confirmed practice (18 November 2026).**
 
 ## 1. Objective
 
@@ -160,3 +160,6 @@ Mark this lab **Completed** only after the learner has:
 5. Saved sanitized evidence and answered the review questions.
 
 **Current result:** This procedure and fictional interpretation example are prepared. The assistant has not accessed or inspected the learner's VM logs, generated SSH login events, or verified any actual authentication activity.
+
+
+**Completion note (18 November 2026):** The learner confirmed that they practiced this lab. No screenshots or terminal output were supplied in this update, so completion is recorded as learner-confirmed rather than independently verified. No specific authentication events, usernames, timestamps or source addresses are claimed here.
