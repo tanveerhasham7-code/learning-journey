@@ -38,7 +38,7 @@ Create `system-inventory.sh` to collect hostname, date, OS release, kernel, curr
 Inspect authentication events on your own Linux lab VM using `journalctl` and, if present, `/var/log/auth.log`. Identify failed and successful SSH authentication messages, timestamps, usernames and source addresses where recorded. Generate at most one controlled failed attempt only if SSH is already safely configured; otherwise analyze existing logs or use the clearly labeled fictional examples in the guide. Never test external systems. Reference: [Lab 9 authentication log analysis procedure](lab/lab-09-log-analysis.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 10 — Firewall basics
-In a disposable VM with console access, inspect UFW status, allow the required lab management service, enable UFW and verify allowed/blocked behavior. Have a snapshot/rollback plan before changing firewall policy.
+Inspect UFW status and existing rules; on a disposable VM with console access, apply a reviewed default policy, add only a necessary narrowly scoped inbound rule, enable UFW safely, and verify active rules. Include a snapshot/console rollback plan; do not test external systems. Reference: [Lab 10 UFW firewall basics procedure](lab/lab-10-firewall-basics.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 11 — Kali-to-Ubuntu lab connection
 Set Kali and Ubuntu VMs to the same Host-only or Internal Network. Example addresses:
