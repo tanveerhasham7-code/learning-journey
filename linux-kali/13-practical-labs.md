@@ -20,7 +20,7 @@ Create a practice folder and three files; write/read content; copy, rename, move
 Create two temporary users and a shared group; configure a group-owned `2770` setgid directory; verify both users can create files; inspect ownership; then remove the test users, group and directory. Evidence: [completed Lab 3 report](lab/lab-03-users-and-groups.md). **Status: Completed (18 November 2026; learner-confirmed command execution, no screenshots).**
 
 ## Lab 4 — Permissions
-Create a file in a dedicated home-directory practice folder; test modes `600`, `640` and `644`; inspect each with `stat`; restore mode `600`; then clean up. Reference: [Lab 4 permissions procedure](lab/lab-04-permissions.md). **Status: Reference prepared — learner execution and evidence pending.**
+Create a file in a dedicated home-directory practice folder; test modes `600`, `640` and `644`; inspect each with `stat`; restore mode `600`; then clean up. Reference: [Lab 4 permissions procedure](lab/lab-04-permissions.md). **Status: Completed (18 November 2026; learner-confirmed practice).**
 
 ## Lab 5 — Processes and services
 Start a harmless `sleep 300` process; identify its PID, owner and state with `ps` and `pgrep`; terminate it gracefully with `kill -TERM`; verify it ended; inspect the actual state of NetworkManager using `systemctl status`. Reference: [Lab 5 processes and services procedure](lab/lab-05-processes-and-services.md). **Status: Reference prepared — learner execution and evidence pending.**
