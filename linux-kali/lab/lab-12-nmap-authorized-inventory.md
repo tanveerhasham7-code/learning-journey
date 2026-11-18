@@ -1,7 +1,7 @@
 # Lab 12 — Nmap Authorized Service Inventory
 
-**Status: Reference prepared — learner execution and evidence pending.**  
-This is a guided procedure for scanning only your own Ubuntu lab VM. The assistant has not run Nmap against the learner's VM and has not observed any scan results. Do not publish example output as if it were real.
+**Status: Completed — learner-confirmed practice (18 November 2026).**  
+The learner confirmed that they practiced this authorized Nmap inventory lab. No screenshots or terminal output were supplied in this update, so completion is recorded as learner-confirmed rather than independently verified. No specific scan targets, ports, services or version results are claimed here.
 
 ## 1. Objective
 
@@ -166,3 +166,6 @@ Mark this lab **Completed** only after you:
 - Save sanitized evidence and note any limitations.
 
 **Current repository status:** Reference prepared only. No Nmap scan was run by the assistant, no learner VM was accessed, and no real scan output is claimed.
+
+
+**Completion note (18 November 2026):** The learner confirmed that they practiced this lab on their authorized environment. No screenshots or terminal output were supplied with this update; therefore, actual Nmap findings are not reproduced or inferred.
