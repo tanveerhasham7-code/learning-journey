@@ -53,7 +53,7 @@ For each completed lab, save the objective, theory, topology, commands actually 
 - [ ] Filesystem and storage
 - [x] Users, groups and permissions (Labs 3–4 completed)
 - [x] Processes, services and package management (Labs 5–6 completed)
-- [ ] Networking and firewall basics
+- [x] Linux network diagnostics (Lab 7 completed); firewall basics remain pending
 - [ ] Bash scripting
 - [ ] Logs and monitoring
 - [ ] Linux hardening
