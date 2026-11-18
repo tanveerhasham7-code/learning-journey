@@ -17,7 +17,7 @@ Evidence: [completed Lab 1 report with three embedded screenshots](lab/lab-01-sy
 Create a practice folder and three files; write/read content; copy, rename, move and delete files; create a subdirectory; use `less` and `find`; inspect the final tree and disk usage with `pwd`, `ls -R` and `du -sh`. Evidence: [completed Lab 2 report](lab/lab-02-files-and-directories.md). **Status: Completed (17 November 2026; learner-confirmed command execution, no screenshots).**
 
 ## Lab 3 — Users and groups
-Create two test users and a shared group. Create a shared directory, assign group ownership and configure permissions. Log in as each test user and verify access. Evidence: id, getent group, ls -ld and access results. Remove test accounts when finished if appropriate.
+Create two temporary users and a shared group; configure a group-owned `2770` setgid directory; verify both users can create files; inspect ownership; then remove the test users, group and directory. Evidence: [completed Lab 3 report](lab/lab-03-users-and-groups.md). **Status: Completed (18 November 2026; learner-confirmed command execution, no screenshots).**
 
 ## Lab 4 — Permissions
 Create a file and test modes 600, 640 and 644. Explain which users can read/write it. Restore a sensible final mode. Never change permissions on system files.
