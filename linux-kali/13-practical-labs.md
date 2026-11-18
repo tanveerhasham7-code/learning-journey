@@ -44,12 +44,7 @@ Inspect UFW status and existing rules; on a disposable VM with console access, a
 Connect both owned VMs to the same isolated Host-only network; inspect actual interface addresses and routes; verify same-subnet addressing; test ping in both directions; and inspect ARP/neighbor tables. Example IPs are illustrative only. Reference: [Lab 11 Kali-to-Ubuntu connection procedure](lab/lab-11-kali-to-ubuntu-connection.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 12 — Nmap authorized inventory
-From Kali, scan only the Ubuntu target you own:
-```bash
-nmap -sn 192.168.56.30
-nmap -sV 192.168.56.30
-```
-Record open ports and service versions. Confirm services from the Ubuntu VM itself. Recommend disabling or restricting unnecessary services.
+From Kali, scan only your own Ubuntu VM on the isolated lab network. Confirm its actual IP, check reachability, run host discovery and TCP service/version detection, verify listening services locally on Ubuntu, and document evidence-based hardening recommendations. Example IPs are not assumed to match your network. Reference: [Lab 12 Nmap authorized inventory procedure](lab/lab-12-nmap-authorized-inventory.md). **Status: Reference prepared — learner execution and evidence pending.**
 
 ## Lab 13 — Wireshark packet analysis
 Capture your own ping and DNS query. Identify source/destination MAC and IP, protocol, ports where applicable, and request/response behavior. Save a sanitized capture only if it contains no private data.
