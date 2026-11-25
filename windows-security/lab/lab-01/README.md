@@ -66,16 +66,27 @@ The `WindowsProductName` field from `Get-ComputerInfo`, and the registry `Produc
 
 The learner first attempted `Get-ComputerInfo` in Command Prompt, where it was not recognized. This is expected because `Get-ComputerInfo` is a PowerShell cmdlet, not a CMD command. The learner then opened PowerShell and successfully ran the cmdlet. An additional parser error occurred after the CMD error text was pasted into PowerShell; the learner corrected this by entering the actual command.
 
-## Evidence
+## Practical Evidence
 
-1. [Screenshot 1 — PowerShell OS fields and systeminfo output](../screenshort/lab-01/Screenshot%202026-11-25%20143246.png)  
-   Shows `OsName` as Windows 11 Pro, the `systeminfo` output, and the x64-based system type. It also contains a visible Product ID; redact that before public portfolio use.
+The screenshots below are embedded directly in this solved lab report so they can be viewed on the page without opening separate links.
 
-2. [Screenshot 2 — Run dialog with winver command](../screenshort/lab-01/Screenshot%202026-11-25%20143347.png)  
-   Shows the `winver` command being entered. It does **not** show the resulting About Windows window, so the reported 26H2/build details are recorded as learner-provided rather than independently visible in this image.
+### Screenshot 1 — PowerShell OS fields and systeminfo output
 
-3. [Screenshot 3 — CMD hostname, whoami and command troubleshooting](../screenshort/lab-01/Screenshot%202026-11-25%20143408.png)  
-   Shows the computer name, account name and the initial expected error from attempting to run a PowerShell cmdlet in CMD.
+![PowerShell OS fields and systeminfo output](../screenshort/lab-01/Screenshot%202026-11-25%20143246.png)
+
+Shows `OsName` as Windows 11 Pro, the `systeminfo` output, and the x64-based system type. The image also contains a visible Product ID; redact it before public portfolio use.
+
+### Screenshot 2 — Run dialog with winver command
+
+![Run dialog with winver command](../screenshort/lab-01/Screenshot%202026-11-25%20143347.png)
+
+Shows the `winver` command being entered. It does **not** show the resulting About Windows window, so the reported 26H2/build details are recorded as learner-provided rather than independently visible in this image.
+
+### Screenshot 3 — CMD hostname, whoami and command troubleshooting
+
+![CMD hostname, whoami and command troubleshooting](../screenshort/lab-01/Screenshot%202026-11-25%20143408.png)
+
+Shows the computer name, account name and the initial expected error from attempting to run a PowerShell cmdlet in CMD.
 
 ## Security observations
 
