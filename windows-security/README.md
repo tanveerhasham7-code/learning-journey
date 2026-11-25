@@ -39,6 +39,7 @@ Use a Windows 10/11 virtual machine with snapshots. For advanced Active Director
 ## Completed practical labs
 
 - [x] [Lab 01 — Windows System Baseline](lab/lab-01/README.md) — Performed system inventory using `winver`, CMD and PowerShell, with practical screenshots embedded in the report.
+- [x] [Lab 02 — Local Accounts and Groups](lab/lab-02/README.md) — Reviewed local users and groups, checked Administrators membership, created and verified a temporary standard account, and ran cleanup; eight screenshots are embedded in the report.
 
 ## Evidence folders
 Save sanitized screenshots in windows-security/evidence/lab-01-system-baseline, lab-02-accounts, lab-03-permissions, lab-04-powershell, lab-05-logging, lab-06-firewall, lab-07-defender and so on. Never upload passwords, hashes, recovery keys, tokens, private keys, sensitive logs or identifying personal data.
